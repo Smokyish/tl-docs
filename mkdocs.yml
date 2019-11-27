@@ -1,0 +1,64 @@
+site_name: 'Trustlines Docs'
+site_url: 'https://docs.trustlines.network'
+repo_name: 'Smokyish/tl-docs'
+repo_url: 'https://github.com/Smokyish/tl-docs'
+site_description: 'Trustlines Docs'
+theme:
+  name: 'material'
+  palette:
+    primary: 'red'
+    accent: 'pink'
+  font:
+      text: 'Gothic A1'
+      code: 'Gothic A1'
+  logo: 'images/TN-Logo-White_1_12.svg'
+  favicon: 'images/favicon.ico'
+  feature:
+    tabs: false
+markdown_extensions:
+    - footnotes
+    - admonition
+    - pymdownx.arithmatex
+    - pymdownx.betterem:
+        smart_enable: all
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink:
+        social_url_shorthand: true
+        repo_url_shorthand: true
+        repo_url_shortener: true
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.tilde
+    - codehilite:
+    - toc:
+        permalink: Link
+extra_css:
+  - 'stylesheets/extra_styles.css'
+extra_javascript:
+  - 'javascript/extra_js.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/trustlines-protocol'
+    - type: 'medium'
+      link: 'https://medium.com/trustlines-foundation'
+    - type: 'reddit'
+      link: 'https://www.reddit.com/r/Trustlines/'
+    - type: 'twitter'
+      link: 'https://twitter.com/TrustlinesFound'
+nav:
+    - Welcome: 'index.md'
+    - Guides:
+      - External Comms Guide: 'network/external_comms_guide.md'
+      - Brand Guidelines: 'foundation/brand_guidelines.md'
+      - Docs Basic Features: 'docs_basic_features.md'
+      - Docs Advanced Features: 'docs_advanced_features.md'
+    - Legal:
+      - Trademarks: 'foundation/trademarks.md'

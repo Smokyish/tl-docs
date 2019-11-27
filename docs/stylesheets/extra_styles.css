@@ -1,0 +1,161 @@
+.md-content__inner {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.admonition.quote {
+  border-left: 0px;
+}
+
+.md-typeset .admonition.quote>.admonition-title:before, .md-typeset .admonition.quote>summary:before, .md-typeset .admonition.summary>.admonition-title:before, .md-typeset .admonition.summary>summary:before, .md-typeset .admonition.tldr>.admonition-title:before, .md-typeset .admonition.tldr>summary:before, .md-typeset details.quote>.admonition-title:before, .md-typeset details.quote>summary:before, .md-typeset details.summary>.admonition-title:before, .md-typeset details.summary>summary:before, .md-typeset details.tldr>.admonition-title:before, .md-typeset details.tldr>summary:before {
+  display: none;
+}
+
+.md-typeset .admonition.quote>.admonition-title {
+  margin-top: -20px;
+  margin-left: -20px;
+}
+
+.md-header-nav__button.md-logo img {
+  height: 42px;
+  width: 43px;
+}
+
+.md-header-nav__button.md-logo {
+  display: block;
+  margin: .1rem;
+  padding: .1rem;
+}
+
+.md-sidebar--secondary {
+  right: 0;
+  margin-left: 0;
+  -webkit-transform: none;
+  transform: none;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.md-sidebar--secondary .md-nav__link {
+  margin-left: .1rem;
+}
+
+[data-md-color-primary=red] .md-nav__item--nested>.md-nav__link {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.md-content {
+  max-width: 70%;
+  padding-left: 10.5em;
+}
+
+[data-md-color-primary="red"] .md-nav--secondary {
+  border-left: 0.1rem solid #AA2328;
+}
+
+.md-header {
+  background-color: #F05A55;
+}
+
+.md-typeset iframe, .md-typeset img, .md-typeset svg .welcomeImg {
+  max-width: 50%;
+}
+
+@media only screen and (min-width: 76.25em) {
+  .md-main__inner {
+    max-width: none;
+  }
+  .md-sidebar--primary {
+    margin-left: 8.6em;
+    width: 20.5em;
+  }
+  .md-sidebar--primary .md-nav__link {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(33, 43, 54, 0.7);
+  }
+  .md-sidebar--primary .md-nav__link--active {
+    font-weight: 500;
+  }
+  .md-sidebar--secondary {
+    right: 0;
+    margin-left: 0;
+    -webkit-transform: none;
+    transform: none;
+    font-weight: 400;
+    font-size: 14px;
+  }
+  .md-sidebar--secondary .md-nav__link {
+    margin-left: .1rem;
+  }
+  .md-content {
+    max-width: 75%;
+    padding-left: 8.5em;
+  }
+  .md-typeset p {
+    margin: 0.8em 0;
+  }
+  .md-footer-social>.md-footer-social__link {
+    font-size: 24px;
+  }
+}
+
+.md-typeset .admonition.bug>.admonition-title:before, .md-typeset .admonition.bug>summary:before, .md-typeset .admonition.summary>.admonition-title:before, .md-typeset .admonition.summary>summary:before, .md-typeset .admonition.tldr>.admonition-title:before, .md-typeset .admonition.tldr>summary:before, .md-typeset details.bug>.admonition-title:before, .md-typeset details.bug>summary:before, .md-typeset details.summary>.admonition-title:before, .md-typeset details.summary>summary:before, .md-typeset details.tldr>.admonition-title:before, .md-typeset details.tldr>summary:before {
+  color: #AA2328;
+}
+
+.md-typeset .admonition.bug {
+  border-left: .2rem solid #AA2328;
+}
+
+.md-typeset .admonition.danger>.admonition-title:before, .md-typeset .admonition.danger>summary:before, .md-typeset .admonition.summary>.admonition-title:before, .md-typeset .admonition.summary>summary:before, .md-typeset .admonition.tldr>.admonition-title:before, .md-typeset .admonition.tldr>summary:before, .md-typeset details.danger>.admonition-title:before, .md-typeset details.danger>summary:before, .md-typeset details.summary>.admonition-title:before, .md-typeset details.summary>summary:before, .md-typeset details.tldr>.admonition-title:before, .md-typeset details.tldr>summary:before {
+  color: #C83237;
+}
+
+.md-typeset .admonition.danger {
+  border-left: .2rem solid #C83237;
+}
+
+.md-typeset .admonition.failure>.admonition-title:before, .md-typeset .admonition.failure>summary:before, .md-typeset .admonition.summary>.admonition-title:before, .md-typeset .admonition.summary>summary:before, .md-typeset .admonition.tldr>.admonition-title:before, .md-typeset .admonition.tldr>summary:before, .md-typeset details.failure>.admonition-title:before, .md-typeset details.failure>summary:before, .md-typeset details.summary>.admonition-title:before, .md-typeset details.summary>summary:before, .md-typeset details.tldr>.admonition-title:before, .md-typeset details.tldr>summary:before {
+  color: #F05A55;
+}
+
+.md-typeset .admonition.failure {
+  border-left: .2rem solid #F05A55;
+}
+
+.md-typeset .admonition>.admonition-title:before, .md-typeset .admonition.abstract>summary:before, .md-typeset details>.admonition-title:before, .md-typeset details>summary:before {
+  color: #195A87;
+}
+
+.admonition.note {
+  border-left: .2rem solid #195A87;
+}
+
+.md-typeset .admonition.abstract>.admonition-title:before, .md-typeset .admonition.abstract>summary:before, .md-typeset .admonition.summary>.admonition-title:before, .md-typeset .admonition.summary>summary:before, .md-typeset .admonition.tldr>.admonition-title:before, .md-typeset .admonition.tldr>summary:before, .md-typeset details.abstract>.admonition-title:before, .md-typeset details.abstract>summary:before, .md-typeset details.summary>.admonition-title:before, .md-typeset details.summary>summary:before, .md-typeset details.tldr>.admonition-title:before, .md-typeset details.tldr>summary:before {
+  color:#1E8CC3;
+}
+
+.md-typeset .admonition.abstract {
+  border-left: .2rem solid #1E8CC3;
+}
+
+.md-typeset .admonition.info>.admonition-title:before, .md-typeset .admonition.info>summary:before, .md-typeset .admonition.summary>.admonition-title:before, .md-typeset .admonition.summary>summary:before, .md-typeset .admonition.tldr>.admonition-title:before, .md-typeset .admonition.tldr>summary:before, .md-typeset details.info>.admonition-title:before, .md-typeset details.info>summary:before, .md-typeset details.summary>.admonition-title:before, .md-typeset details.summary>summary:before, .md-typeset details.tldr>.admonition-title:before, .md-typeset details.tldr>summary:before {
+  color: #73BEE1;
+}
+
+.md-typeset .admonition.info {
+  border-left: .2rem solid #73BEE1;
+}
+
+.md-typeset .admonition, .md-typeset details {
+    border-radius: 6px;
+    margin-right: 2.5rem;
+    margin-left: .4rem;
+}
+
+.md-typeset .codehilite {
+  margin-right: 3rem;
+  margin-left: .5rem;
+}
