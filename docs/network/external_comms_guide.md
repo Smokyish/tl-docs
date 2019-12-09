@@ -1,5 +1,5 @@
 General information
--------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 ### Background
 
@@ -83,20 +83,12 @@ Auxiliary GmbH is a new entity under the brainbot group umbrella. It aims to pro
 
 In the Trustlines Network ecosystem context, Auxiliary aims to develop and deploy an app and potentially other components providing access to the Trustlines Network, most probably within the German regulatory framework.
 
-Trustlines ecosystem stakeholder map
-------------------------------------
-!!! failure ""
-    <a href="../../images/external_comms_guide_map.png"><img src="../../images/external_comms_guide_map.png" />
+<a href="../../assets/images/external_comms_guide_map.png"><img class="body_img" src="../../assets/images/external_comms_guide_map.png" /></a>
 
-!!! failure ""
-    <a href="../../images/external_comms_guide_map_extended.png"><img src="../../images/external_comms_guide_map_extended.png" />
-
-[Link to the basic map in larger size](https://i.imgur.com/yvxp4FK.png)
-
-[Link to the extended map in larger size](https://i.imgur.com/yQqqd7b.png)
+<a href="../../assets/images/external_comms_guide_map_extended.png"><img class="body_img" src="../../assets/images/external_comms_guide_map_extended.png" />
 
 Resources
----------
+------------------------------------------------------------------------------------------------------------
 
 These resources should help you dive deeper into the world of Trustlines. There are also items to help you with presenting Trustlines to an audience and images to use concerning Trustlines.
 
@@ -104,18 +96,18 @@ The official brand names in the Trustlines ecosystem follow a specified pattern 
 
 Examples of capitalizing brand names would be Trustlines Network, Trustlines Protocol, and Trustlines Blockchain. So if you are generally referring to the blockchain or the associated technology, capitalization isn't used. Or when referring to a protocol other than the Trustlines Protocol. And a networking event about the Trustlines Network would have a lowercase network used.
 
-##### [Trustlines Protocol 101](https://trustlines.foundation/trustlines-101.html)
+##### [TRUSTLINES PROTOCOL 101](https://trustlines.foundation/trustlines-101.html)
 
-##### [Trustlines FAQ](https://trustlines.foundation/faq.html)
+##### [TRUSTLINES FAQ](https://trustlines.foundation/faq.html)
 
-##### Brand Guidelines
+##### BRAND GUIDELINES
 
-##### Image resources, logos etc.
+##### IMAGE RESOURCES, LOGOS ETC.
 
-##### Presentation template
+##### PRESENTATION TEMPLATE
 
 Arranging a Meetup
-------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 Hey, you're interested in organizing a meetup presenting Trustlines, great!
 
@@ -124,10 +116,10 @@ Here you can find more information on how the community and contributors can hel
 You can find a 
 
 Promoting Trustlines
---------------------
+----------------------------------------------------------------------------------------------------------------------------------
 
 Use cases of the Trustlines Protocol
-------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 When communicating about Trustlines a clear distinction must be made between the protocol and the potential use cases. The protocol is technical and, as is the Foundation, impartial towards all potential use cases. 
 
@@ -137,60 +129,52 @@ One of the use cases that is , established and well developed is the people powe
 
 The Trustlines Network supports the creation of blockchain-based peer-to-peer currency networks. In dense societal networks and due to the transitive nature of financial relationships, one could imagine a plethora of financial use cases that utilize these networks. Leading among them would be the ability to engage in economic transactions that could be viewed as a substitute for general payments of all kinds. This twist, i.e. the transition from a credit registry towards a system that could be used to facilitate payment-like transactions, is comparable to the principles of LETS-systems or, for example, the unofficial financial network "Hawala".
 
-Link to the [People Powered Money vision blog post](https://medium.com/trustlines-protocol/people-powered-money-on-the-trustlines-protocol-ed411a86cc35).
+Link to the [People Powered Money vision blog post](https://medium.com/trustlines-protocol/people-powered-money-on-the-trustlines-protocol-ed411a86cc35).
 
 ### Others
 
 A plethora of other use cases is being discussed by the community, such as financing of SMEs, non-financial use cases, or even using Trustlines as an "operating system" for a more traditional banking system.
 
 Trademarks and licensing
-------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 "Trustlines" and "Trustlines Network" are registered trademarks that are owned by the Trustlines Foundation. The purpose of the registration is to protect the usage of the terms "Trustlines" and "Trustlines Network" from inappropriate or malicious use. Soon, guidelines will be made publically available on how a party may use the "Trustlines" and "Trustlines Network" trademarks.
 
 Official communication Channels
--------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
-!!! failure ""
-    **Websites**
+**Websites**
 
-    <https://trustlines.network/>
+<https://trustlines.network/>
 
-    <https://trustlines.foundation/>
+<https://trustlines.foundation/>
 
-!!! abstract ""
-    **Trustlines Foundation Twitter**
+**Trustlines Foundation Twitter**
 
-    <https://twitter.com/TrustlinesFound>
+<https://twitter.com/TrustlinesFound>
 
-    <https://twitter.com/tl_validator>
+<https://twitter.com/tl_validator>
 
-!!! abstract ""
-    **Trustlines Foundation Medium Blog**
+**Trustlines Foundation Medium Blog**
 
-    <https://medium.com/trustlines-foundation>
+<https://medium.com/trustlines-foundation>
 
-!!! failure ""
-    **Trustlines Subreddit**
+**Trustlines Subreddit**
 
-    <https://www.reddit.com/r/trustlines>
+<https://www.reddit.com/r/trustlines>
 
-!!! abstract ""
-    **Trustlines Protocol Reddit account**
+**Trustlines Protocol Reddit account**
 
-    <https://www.reddit.com/user/TrustlinesProtocol/>
+<https://www.reddit.com/user/TrustlinesProtocol/>
 
-!!! bug ""
-    **Trustlines Network Community (unofficial) Telegram**
+**Trustlines Network Community (unofficial) Telegram**
 
-    <https://t.me/trustlines_network>
+<https://t.me/trustlines_network>
 
-!!! failure ""
-    **Trustlines Technical Chat on Gitter**
+**Trustlines Technical Chat on Gitter**
 
-    <https://gitter.im/trustlines/community>
+<https://gitter.im/trustlines/community>
 
-!!! abstract ""
-    **Trustlines YouTube channel**
+**Trustlines YouTube channel**
 
-    <https://www.youtube.com/channel/UCdNvItQZDL8Qj0HJGIM_AYA> 
+<https://www.youtube.com/channel/UCdNvItQZDL8Qj0HJGIM_AYA>
