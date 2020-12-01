@@ -4,7 +4,7 @@ title: Trustlines Docs
 subtitle:
 email: contact@trustlines.foundation
 description: Documentation for the Trustlines Network
-baseurl: "tl-docs" # the subpath of your site, e.g. /blog
+baseurl: "https://smokyish.github.io/tl-docs" # the subpath of your site, e.g. /blog
 author: Trustlines Foundation
 street_address: Städtle 38
 city: Vaduz
