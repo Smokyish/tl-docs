@@ -1,7 +1,6 @@
 ---
 layout: page
 title: User guide for Trustlines App
-subtitle: Version 1.11
 image: https://docs.trustlines.network/assets/images/app_user_guide/tl_app_header.png
 ---
 
@@ -10,6 +9,10 @@ _Note: The images in this guide are for educational purposes and might not repre
 <center><a href="https://trustlines.app/" target="_blank"><img class="app_guide_headerimg" src="../../assets/images/app_user_guide/tl_app_header.png"></a>
 
 <p class="app_guide_dl">You can get the Trustlines App for Android and iOS from <a href="https://trustlines.app/" target="_blank">https://trustlines.app</a></p></center>
+
+#### Note to iOS users upgrading from a previous version
+
+_Note: If you had the beta version Trustlines App installed on an iOS device with TestFlight, you will need to reinstall the production version. First of all, remember to [securely backup your passphrase](#securing-access-to-your-account), uninstall the beta version and install the production version._
 
 ## Introduction
 
@@ -25,7 +28,11 @@ If you formalize these natural, informal agreements between trusted friends on a
 
 You might have received an invite link from someone to get started with the Trustlines App, or perhaps you've just downloaded the app and are ready to get started. These two processes differ a bit, and we have a guide for each approach.
 
-Select the appropriate choice for you, [Starting via an invite link](#starting-via-an-invite-link) or [Starting with a sign-up in the app](#starting-with-a-sign-up-in-the-app).
+Select the appropriate choice for you, [Starting via an invite link](#starting-via-an-invite-link) or [Starting with a sign up in the app](#starting-with-a-sign-up-in-the-app).
+
+#### Note to iOS users upgrading from a previous version
+
+_Note: If you had the beta version Trustlines App installed on an iOS device with TestFlight, you will need to reinstall the production version. First of all, remember to [securely backup your passphrase](#securing-access-to-your-account), uninstall the beta version and install the production version._
 
 ### Starting via an invite link
 
@@ -47,31 +54,37 @@ Since you created your account via an invite link, there is already a trustline 
 
 That's it. You're ready to start using the Trustlines App!
 
-### Starting with a sign-up in the app
+### Starting with a sign up in the app
 
-Starting with a sign-up in the app is pretty similar to [starting via an invite link](#starting-via-an-invite-link). There are a couple of fewer steps to take before getting to the `Dashboard`, but the app won't be very useful at this point until you [create a trustline](#create-a-trustline) with someone.
+Starting with a sign up in the app is pretty similar to [starting via an invite link](#starting-via-an-invite-link). There are a couple of fewer steps to take before getting to the `Dashboard`, but the app won't be very useful at this point until you [create a trustline](#creating-a-trustline) with someone.
 
-_If you already went through the [starting via an invite link](#starting-via-an-invite-link) steps, feel free to [skip](#create-a-trustline) this section._
+_If you already went through the [starting via an invite link](#starting-via-an-invite-link) steps, feel free to [skip](#creating-a-trustline) this section._
 
-<center><a href="../../assets/images/app_user_guide/v1.11/sign_up_login.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sign_up_login.png"></a><a href="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"></a></center>
+___
 
 The first thing you need to do when signing up for a new account is to accept the `Terms & Conditions`.
 
-<center><a href="../../assets/images/app_user_guide/v1.11/generating_account.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/generating_account.png"></a><a href="../../assets/images/app_user_guide/v1.11/choose_name.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_name.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/sign_up_login.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sign_up_login.png"></a><a href="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"></a></center>
 
 Upon accepting the Terms & Conditions, the app will automatically generate a new account for you. Once the account generation is complete, you get to choose the name displayed in the name for yourself.
 
-<center><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><a href="../../assets/images/app_user_guide/v1.11/trustline_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_partner.png"></a></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/generating_account.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/generating_account.png"></a><a href="../../assets/images/app_user_guide/v1.11/choose_name.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_name.png"></a></center>
 
 After choosing a name that you want to use in the app, you're ready to create your first trustline! You can enter your partner's address either by scanning their QR code or by entering the address to the input field. Make sure to enter a name for them as well so you will be able to easily see who you're interacting with!
 
+You can also skip this step and [create a new trustline](#creating-a-trustline) later, but the app is not useful without at least one trustline!
+
+<center><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><a href="../../assets/images/app_user_guide/v1.11/trustline_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_partner.png"></a></a></center>
+
+Next, you will [choose a currency network](#choosing-a-currency-network-for-a-trustline) you would like to use as a denomination for this trustline. On the next screen, you will need to choose and [suggest a credit limit](#setting-a-credit-limit) for this trustline.
+
 <center><a href="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"></a><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a></center>
 
-Next, you will choose a currency network you would like to use as a denomination for this trustline. On the next screen, you will need to choose and suggest a credit limit for this trustline.
-
-<center><a href="../../assets/images/app_user_guide/v1.11/trustline_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_review.png"></a><a href="../../assets/images/app_user_guide/v1.11/dashboard_empty.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/dashboard_empty.png"></a></center>
-
 Review the details of the trustline you wish to request before sending, and that's it, you're ready to start using the Trustlines App!
+
+<center><a href="../../assets/images/app_user_guide/v1.11/trustline_review_sign_up.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_review_sign_up.png"></a><a href="../../assets/images/app_user_guide/v1.11/trustline_pending.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_pending.png"></a></center>
+
+<center><a href="../../assets/images/app_user_guide/v1.11/dashboard_trustline_pending.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/dashboard_trustline_pending.png"></a></center>
 
 ## Securing access to your account
 
@@ -95,23 +108,29 @@ The app is not useful without at least one trustline! So if you don't have one, 
 
 To create a trustline, first, one party must create a proposal, and the other must accept it.
 
-Each trustline consists of two credit lines. As a default, we suggest you set both limits to the same value and use an interest rate of zero. It's best to **discuss this together** as you fill in the numbers. Selecting the `Advanced Mode` will allow you to set two values; the left is the amount you would lend, and the right is the amount you can borrow. “Borrow” can be thought of as your “spend limit” with this partner. These two amounts can be set to whatever values you and your partner agree on. There is also an option to add interest to either of these credit lines.
+Each trustline consists of two credit lines. As a default, we suggest you set both limits to the same value. It's best to **discuss this together** as you fill in the numbers. Selecting the `Advanced Mode` will allow you to set two values; the left is the amount you would lend, and the right is the amount you can borrow. “Borrow” can be thought of as your “spend limit” with this partner. These two amounts can be set to whatever values you and your partner agree on. There is also an option to add interest to either of these credit lines.
 
 Start by heading to the `Dashboard`. Here you can either start the process by tapping on `New Trustline`.
 
-The first step is to select which currency network, and thus, denomination you wish to use for this specific trustline.
+The first step is to [select which currency network](#choosing-a-currency-network-for-a-trustline), and thus, denomination you wish to use for this specific trustline.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/dashboard.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/dashboard.png"></a><a href="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"></a></center>
 
-Next, you need to set a credit limit for the trustline. It's best to **discuss this together** as you fill in the numbers. The `Advanced Mode` will provide you with more options if you wish to set different credit limits for you and your partner or add a custom interest for the trustline.
+Next, you need to [set a credit limit](#setting-a-credit-limit) for the trustline. It's best to **discuss this together** as you fill in the numbers. The `Advanced Mode` will provide you with more options if you wish to set different credit limits for you and your partner or add a custom interest for the trustline.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"></a></center>
 
-After selecting the credit limit for the trustline, review the request before choosing a partner. You can select a contact from your list, paste their account address, or scan their QR code.
+After selecting the credit limit for the trustline, review the request before choosing a partner.
+
+Here you can select to **share a link** to be sent to a recipient, i.e., using a messaging app, email, etc., **share your QR code** to be scanned, or to **select a partner from the list of existing contacts**, **paste in the partners account address**, or **scan their QR code**.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/review_trustline_cn.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/review_trustline_cn.png"></a><a href="../../assets/images/app_user_guide/v1.11/trustline_creation_choose_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_creation_choose_partner.png"></a></center>
 
-Then, review the details, making sure everything is correct, and send the request!
+By selecting `Share` when choosing a partner, you will be shown the option to share your own QR code, or to select `Share` again at the bottom of the screen to send a trustline request link to someone. Both of these options will contain the information that you previously selected for the trustline request.
+
+<center><a href="../../assets/images/app_user_guide/v1.11/share_trustline_qr_code.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/share_trustline_qr_code.png"></a></center>
+
+Then, if selecting another option like an existing contact, review the details, making sure everything is correct, and send the request!
 
 <center><a href="../../assets/images/app_user_guide/v1.11/trustline_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_review.png"></a></center>
 
@@ -131,19 +150,25 @@ Make sure to enter a name for them as well! Make sure to label them with a name 
 
 ## Choosing currency networks to use
 
-You'll need to enable currency networks in order to create trustlines using different denominations. Pick something you are interested in using---purely as a "unit of account." Popular currency networks are USD, EUR, Hours, and Beer. You may also want to use your local currency.
+You'll be able to enable currency networks to create trustlines using different denominations. Pick something you are interested in using purely as a "unit of account." Popular currency networks are USD, EUR, Hours, and Beer. You may also want to use your local currency.
 
 To enable different currency networks, simply select the `Account` tab at the bottom menu bar and then select `Currencies`. Here you can enable, or disable, different currency networks that you can easily then use from your `Dashboard`.
 
+Currency networks can also be enabled during the [trustline creation process](#creating-a-trustline) on the go without the need to enable them in advance.
+
 <center><a href="../../assets/images/app_user_guide/v1.11/currencies.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/currencies.png"></a></center>
 
-When presented with the `Choose Currency Network` screen, tap on `More options` to see the whole list of currency networks that you can choose from.
+___
+
+### Choosing a currency network for a trustline
+
+When presented with the `Choose Currency Network` screen, tap on `More options` to see the whole list of currency networks that you can choose from. The currency network denominations are used purely as a "unit of account."
 
 <center><a href="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"></a><a href="../../assets/images/app_user_guide/v1.11/choose_currency_network_advanced.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_currency_network_advanced.png"></a></center>
 
 ## Setting a credit limit
 
-Each trustline consists of two credit lines. As a default, you set both limits to the same value and use an interest rate of zero. It's best to **discuss this together** as you fill in the numbers. Selecting the `Advanced Mode` will allow you to set two values; the left is the amount you would lend, and the right is the amount you can borrow. “Borrow” can be thought of as your “spend limit” with this partner. These two amounts can be set to whatever values you and your partner agree on. There is also an option to add interest to either of these credit lines.
+Each trustline consists of two credit lines. As a default, you set both limits to the same value. It's best to **discuss this together** as you fill in the numbers. Selecting the `Advanced Mode` will allow you to set two values; the left is the amount you would lend, and the right is the amount you can borrow. “Borrow” can be thought of as your “spend limit” with this partner. These two amounts can be set to whatever values you and your partner agree on. There is also an option to add interest to either of these credit lines.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"></a></center>
 
@@ -177,9 +202,17 @@ If it's someone you plan to transact with again in the future, you can add them 
 
 To request a payment from someone, you hit the `Request` button in the `Dashboard`. Make sure you swipe to select the right currency network before hitting `Request`.
 
-You will need to enter the amount that you are requesting, choose a partner to send the request to, and review the request before confirming it. You can also easily split the payment between multiple people by selecting the `Split Bill` option (see [Splitting the bill](#split-request) for more details).
+You will need to enter the amount that you are requesting, choose a partner to send the request to, and review the request before confirming it. You can also easily split the payment between multiple people by selecting the `Split Bill` option (see [Split request](#split-request) for more details).
+
+By selecting `Share` when choosing a partner, you will be shown the option to share your own QR code, or to select `Share` again at the bottom of the screen to send the payment request link to someone. Both of these options will contain the information that you previously selected for the payment request.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/payment_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/payment_request.png"></a><a href="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"></a></center>
+
+By selecting `Share` when choosing a partner, you will be shown the option to share your own QR code, or to select `Share` again at the bottom of the screen to send the payment request link to someone. Both of these options will contain the information that you previously selected for the payment request.
+
+<center><a href="../../assets/images/app_user_guide/v1.11/share_payment_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/share_payment_request.png"></a></center>
+
+Then, if selecting another option like an existing contact, review the details, making sure everything is correct, and send the request!
 
 <center><a href="../../assets/images/app_user_guide/v1.11/payment_request_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/payment_request_review.png"></a></center>
 

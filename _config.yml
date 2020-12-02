@@ -4,14 +4,14 @@ title: Trustlines Docs
 subtitle:
 email: contact@trustlines.foundation
 description: Documentation for the Trustlines Network
-baseurl: "/tl-docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 author: Trustlines Foundation
 street_address: Städtle 38
 city: Vaduz
 zip_code: 9490
 country: Liechtenstein
 tagline: Trustlines Docs | Documentation for the Trustlines Network
-url:
+url: https://docs.trustlines.network
 twitter:
   username: TrustlinesFound
   card: summary
