@@ -12,7 +12,7 @@ _Note: The images in this guide are for educational purposes and might not repre
 
 #### Note to iOS users upgrading from a previous version
 
-_Note: If you had the beta version Trustlines App installed on an iOS device with TestFlight, you will need to reinstall the production version. First of all, remember to [securely backup your passphrase](#securing-access-to-your-account), uninstall the beta version and install the production version._
+_Note: If you have the beta version Trustlines App installed on an iOS device with TestFlight, you will need to uninstall the beta version before installing the production version. First of all, remember to [securely back up your passphrase](#securing-access-to-your-account), uninstall the beta version, and install the production version. You should also do a [backup of your account's data](#backing-up-and-restoring-your-account-data) and content before uninstalling the beta version._
 
 ## Introduction
 
@@ -20,7 +20,7 @@ In order for markets to function correctly, people need reliable access to a med
 
 ## Mutual Credit
 
-The Trustlines App is your key to using a form of money based on the idea of __mutual credit__. Mutual credit is an organic and accessible form of money that consists simply of credits and debits between two mutually trusted parties. Any two people can choose to transact with each other using the principle of mutual credit by creating an informal two-way credit line between them, referred to as a "trustline."
+The Trustlines App is your key to using a form of money based on the idea of **mutual credit**. Mutual credit is an organic and accessible form of money that consists simply of credits and debits between two mutually trusted parties. Any two people can choose to transact with each other using the principle of mutual credit by creating an informal two-way credit line between them, referred to as a "trustline."
 
 If you formalize these natural, informal agreements between trusted friends on a digital database, it becomes possible to "ripple" transactions through your network of connected friends-of-friends. That's the brilliant thing about using Trustlines: it turns trusted relationships into a payments network that looks and acts like "real" money.
 
@@ -32,7 +32,7 @@ Select the appropriate choice for you, [Starting via an invite link](#starting-v
 
 #### Note to iOS users upgrading from a previous version
 
-_Note: If you had the beta version Trustlines App installed on an iOS device with TestFlight, you will need to reinstall the production version. First of all, remember to [securely backup your passphrase](#securing-access-to-your-account), uninstall the beta version and install the production version._
+_Note: If you have the beta version Trustlines App installed on an iOS device with TestFlight, you will need to uninstall the beta version before installing the production version. First of all, remember to [securely back up your passphrase](#securing-access-to-your-account), uninstall the beta version, and install the production version. You should also do a [backup of your account's data](#backing-up-and-restoring-your-account-data) and content before uninstalling the beta version._
 
 ### Starting via an invite link
 
@@ -60,7 +60,7 @@ Starting with a sign up in the app is pretty similar to [starting via an invite 
 
 _If you already went through the [starting via an invite link](#starting-via-an-invite-link) steps, feel free to [skip](#creating-a-trustline) this section._
 
-___
+* * *
 
 The first thing you need to do when signing up for a new account is to accept the `Terms & Conditions`.
 
@@ -102,6 +102,56 @@ The next step will show you your personal passphrase associated with your accoun
 
 These are all the steps needed to secure access to your account. As a reminder, **storing your passphrase, i.e., in a screenshot, email, or at cloud storage, is not a secure way of storing your passphrase**.
 
+## Backing up and restoring your account data
+
+All the data of your account is stored only on your device. The Trustlines Blockchain stores information regarding your balances, transfers, etc., but, for example, the names of your contacts and payment requests are only stored on your device. This is why it's important to back up the data of your account, at least when starting to use the app on a new device. We do recommend doing a regular backup of this data in case your phone, i.e., gets stolen, broken, or is otherwise lost.
+
+The information is stored in a JSON format that can be easily stored in text form any way you would prefer.
+
+Here's an example of how the data of your account data might look like.
+
+```json
+{
+  "contacts": [{
+    "address": "0xdbF44585FD4C8fc748fB5b6f99d24f8540E0ebEc",
+    "username": "Alice"
+  }, {
+    "address": "0x062E470d519d5feCC78a501644B402d00BBbF393",
+    "username": "Dan"
+  }],
+  "activeCurrencies": [{
+    "address": "0x57c4a2cCF2CC99f3dF7855465d1528C110Ff4F14"
+  }, {
+    "address": "0x7Ac3fC1C428df99D81d9b644106FF67c44A155aA"
+  }],
+  "messages": [{
+    "id": "0x88DD2B76c8eAa369f38764EF71cEcF74F168a6f85262b8Aa66Ba22",
+    "direction": "sent",
+    "networkAddress": "0x7aF939CC78E5805d232752571cab0723613bD327",
+    "timestamp": 1606128428,
+    "type": "PaymentRequest",
+    "counterpartyAddress": "0x21fa801a76196cEb92417c436eEf0a15EB57C649",
+    "accountAddress": "0xB25bAb13E693CE19405A73F3c4A868aB32E46979",
+    "paymentRequestID": "0xC7edf264F6218c9A",
+    "amount": "10",
+    "subject": "Lunch"
+  }],
+  "bills": []
+}
+```
+
+### Backing up your account data
+
+Head on over to the `Accounts` tab in the menu bar. There you will find the `Backup data` option. Hitting the `Back It Up` button will prompt a selection of how you want to save the data. As mentioned above, the data will be in text form, formatted as JSON data, which you can copy and save somewhere, or directly select an option to save it to your device.
+
+<center><a href="../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../assets/images/app_user_guide/v1.11/backup_data.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/backup_data.png"></a></center>
+
+### Restoring up your account data
+
+Head on over to the `Accounts` tab in the menu bar. There you will find the `Restore data` option. This will allow you to paste the data into the input field to restore your data. As mentioned above, the data will be in text form, formatted as JSON data, which you can copy and paste from where you have saved it while [backing up your data](#backing-up-and-restoring-your-account-data).
+
+<center><a href="../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../assets/images/app_user_guide/v1.11/restore_data.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/restore_data.png"></a></center>
+
 ## Creating a trustline
 
 The app is not useful without at least one trustline! So if you don't have one, the first thing you should do upon downloading the Trustlines App is to create a trustline with a trusted peer.
@@ -126,7 +176,7 @@ Here you can select to **share a link** to be sent to a recipient, i.e., using a
 
 <center><a href="../../assets/images/app_user_guide/v1.11/review_trustline_cn.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/review_trustline_cn.png"></a><a href="../../assets/images/app_user_guide/v1.11/trustline_creation_choose_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_creation_choose_partner.png"></a></center>
 
-By selecting `Share` when choosing a partner, you will be shown the option to share your own QR code, or to select `Share` again at the bottom of the screen to send a trustline request link to someone. Both of these options will contain the information that you previously selected for the trustline request.
+By selecting `Share` when choosing a partner, you will be shown the option to share your own QR code or to select `Share` again at the bottom of the screen to send a trustline request link to someone. Both of these options will contain the information that you previously selected for the trustline request.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/share_trustline_qr_code.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/share_trustline_qr_code.png"></a></center>
 
@@ -158,7 +208,7 @@ Currency networks can also be enabled during the [trustline creation process](#c
 
 <center><a href="../../assets/images/app_user_guide/v1.11/currencies.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/currencies.png"></a></center>
 
-___
+* * *
 
 ### Choosing a currency network for a trustline
 
@@ -174,11 +224,11 @@ Each trustline consists of two credit lines. As a default, you set both limits t
 
 ## Checking your global credit limit
 
-As you head on over to the `Dashboard` screen, you'll see a big number at the top, with the word "Available" underneath, and "Send" and "Receive" buttons. This number is not your balance. Instead, it is your global credit limit, the sum of all the credit available on every trustline you have opened within a particular currency network. (It is similar to a credit limit on a credit card.)
+As you head on over to the `Dashboard` screen, you'll see a big number at the top, with the word "Available" underneath, and "Send" and "Receive" buttons. This number is not your balance. Instead, it is your available global credit, the sum of all the credit available on every trustline you have opened within a particular currency network. (It is similar to a credit limit on a credit card.)
 
 <center><a href="../../assets/images/app_user_guide/v1.11/dashboard.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/dashboard.png"></a></center>
 
-This number will go **down** whenever you make a payment using the Trustlines App because paying uses up available credit. It cannot go below zero.
+This number will go **down** whenever you make a payment using the Trustlines App because paying uses up available credit.
 
 But this number will go **up** when you receive payments, like if a friend pays you using a credit line that you have given to them. In other words, if a friend borrows some money from you (and thus owes you money), this amount is recorded as **additional** credit on top of your available credit.
 
@@ -190,9 +240,9 @@ The higher your global credit limit is, the higher your capacity to make payment
 
 Creating a trustline allows you to transact not just with this trusted friend, but also with all the people that your friend is connected to, and all the people their friends are connected to, etc. You can ripple payments across many chains of friends, as long as there is a high enough credit limit (enough "capacity") on each connected trustline.
 
-To send a payment to someone you don't yet know, you can use your QR scanner to directly scan their payment request or ask them to send their account address via a messaging service.
+To send a payment to someone you don't yet know, you can use your QR scanner to directly scan their payment request or share a payment request link via a messaging service.
 
-If it's someone you plan to transact with again in the future, you can add them as a contact, too (see [Adding a contact](#adding-a-contact)). If you already have them as a contact, you can hit "Send" directly from the Dashboard. Make sure you swipe to select the right currency network before hitting `Send`.
+If it's someone you plan to transact with again in the future, you can add them as a contact, too (see [Adding a contact](#adding-a-contact)). If you already have them as a contact, you can hit `Send` directly from the `Dashboard`. Make sure you swipe to select the right currency network before hitting `Send`.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/sending_choose_contact.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sending_choose_contact.png"></a><a href="../../assets/images/app_user_guide/v1.11/sending_details.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sending_details.png"></a></center>
 
@@ -204,11 +254,9 @@ To request a payment from someone, you hit the `Request` button in the `Dashboar
 
 You will need to enter the amount that you are requesting, choose a partner to send the request to, and review the request before confirming it. You can also easily split the payment between multiple people by selecting the `Split Bill` option (see [Split request](#split-request) for more details).
 
-By selecting `Share` when choosing a partner, you will be shown the option to share your own QR code, or to select `Share` again at the bottom of the screen to send the payment request link to someone. Both of these options will contain the information that you previously selected for the payment request.
-
 <center><a href="../../assets/images/app_user_guide/v1.11/payment_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/payment_request.png"></a><a href="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"></a></center>
 
-By selecting `Share` when choosing a partner, you will be shown the option to share your own QR code, or to select `Share` again at the bottom of the screen to send the payment request link to someone. Both of these options will contain the information that you previously selected for the payment request.
+By selecting `Share` when choosing a partner, you will be shown the option to share your own QR code or to select `Share` again at the bottom of the screen to send the payment request link to someone. Both of these options will contain the information that you previously selected for the payment request.
 
 <center><a href="../../assets/images/app_user_guide/v1.11/share_payment_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/share_payment_request.png"></a></center>
 
@@ -252,11 +300,11 @@ This is a newly released app. We are very interested in hearing about your exper
 
 The [Trustlines Forum](https://forum.trustlines.network/) has sections for [Support](https://forum.trustlines.network/c/trustlines-app/app-support/16) as well as for [Feedback](https://forum.trustlines.network/c/trustlines-app/app-feedback/17) regarding the [Trustlines App](https://forum.trustlines.network/c/trustlines-app/15); come tell us what you think!
 
-____
+* * *
 
 _This content is created by Auxiliary GmbH and is provided as educational material for Trustlines App users._
 
-___
+* * *
 
 <div id="prev_next">
 <div class="prev"><a href="../resources/glossary" class="prev_next_text">Previous</a></div>
