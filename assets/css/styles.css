@@ -356,7 +356,7 @@ p.presentation_images {
 }
 
 .hero {
-  background: url("tl-docs/assets/images/trustlines_hero_bg.jpg");
+  background: url("../images/trustlines_hero_bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
