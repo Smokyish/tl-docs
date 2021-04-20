@@ -20,7 +20,7 @@ Our trademarks include but are not limited to:
 -   our "Trustlines unicorn logo" design trademark:
 
 <div>
-  <p><img src="../../../assets/images/brand/Network/PNG/trustlines-network-logo-red.png"/></p>
+  <p><img src=" ../../assets/images/brand/Network/PNG/trustlines-network-logo-red.png"/></p>
 </div>
 
 This list may be updated from time to time, especially as other trademarks are created or registered.
@@ -45,7 +45,7 @@ It must be clear who the owner or marketer of the promoted product, project, or 
 
 #### 2.1.3 Rule #3 Use Trustlines trademarks according to our brand guidelines 
 
-Use the word Trustlines or Trustlines Network in the same font and size as the surrounding text. For [the logo](../brand/brand_resources.html), usage follows the [Brand Guidelines](../brand/brand_guidelines.html).
+Use the word Trustlines or Trustlines Network in the same font and size as the surrounding text. For [the logo](../brand/brand_resources), usage follows the [Brand Guidelines](../brand/brand_guidelines).
 
 #### 2.1.4 Rule #4 Use the trademark as an adjective 
 
@@ -60,7 +60,7 @@ _"Trustlines ®, Trustlines Network ®, and the Trustlines unicorn logo are trad
 
 To get a quick idea about whether or not your intended use of the trademark is allowed without asking the Trustlines Foundation first, you can go through the following flow chart. Please keep in mind that this is just a quick check, and you should always refer to the full rules or ask us when you're in doubt about your use case scenario.
 
-<a href="../../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg"><img src="../../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg" class="trademark_guidelines_img" /></a>
+<a href=" ../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg"><img src=" ../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg" class="trademark_guidelines_img" /></a>
 
 ### 2.3 Examples for rules #1 and #2
 

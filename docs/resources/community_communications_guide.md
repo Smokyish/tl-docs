@@ -85,9 +85,9 @@ Anyone is free to arrange an event or a meetup related to the Trustlines Network
 
 #### Organizational
 
-  - There's [Brand Guidelines](https://docs.trustlines.network/docs/brand/brand_guidelines.html) and [Brand Resources](https://docs.trustlines.network/docs/brand/brand_resources.html) for color schemes and logos you can put on any website related to an event. **Please read and respect the guidelines!**
+  - There's [Brand Guidelines](../brand/brand_guidelines.md) and [Brand Resources](../brand/brand_guidelines.md) for color schemes and logos you can put on any website related to an event. **Please read and respect the guidelines!**
 
-  - You can find [presentation slide decks](https://docs.trustlines.network/docs/resources/presentations/presentation_slides.html) explaining Trustlines here in the Docs
+  - You can find [presentation slide decks](../resources/presentations/presentation_slides.md) explaining Trustlines here in the Docs
 
   - You can send an email to the Trustlines Foundation to check if it can help find a speaker for an event or a meetup
 
@@ -97,7 +97,7 @@ Anyone is free to arrange an event or a meetup related to the Trustlines Network
 
 Trustlines cover broad areas, both technically and sociologically speaking. Listed below are a few topic ideas that may be of interest.
 
-  - [Trustlines Protocol](presentations/presentation_slides.html#trustlines-protocol) and [People Powered Money](presentations/presentation_slides.html#people-powered-money) 
+  - [Trustlines Protocol](presentations/presentation_slides.md#trustlines-protocol) and [People Powered Money](presentations/presentation_slides.md#people-powered-money) 
 
     - An overview of the essential components of the Trustlines Protocol and an in-depth look at blockchain-based credit issued mutually amongst trusting friends oftentimes referred to as Trustlines People Powered Money.
 

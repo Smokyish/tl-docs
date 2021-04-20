@@ -99,7 +99,7 @@ The Trustlines Network is an ecosystem of individuals, projects, and entities al
 
 The Trustlines Network aims to promote the financial and economic inclusion of all people through decentralized and open-source systems. It consists of all the people, organizations, and other entities, participating in creating and using the Trustlines Network ecosystem.
 
-The Trustlines Protocol represents a set of rules, processes, and definitions forged into deployable code, enabling the mapping of trust-based relationships onto trustless infrastructure. Read more about the protocol [here](wp_content/how_trustlines_works.html#4-trustlines-protocol-technology-stack-1).
+The Trustlines Protocol represents a set of rules, processes, and definitions forged into deployable code, enabling the mapping of trust-based relationships onto trustless infrastructure. Read more about the protocol [here](wp_content/how_trustlines_works.md#4-trustlines-protocol-technology-stack-1).
 
 ### What problem are you solving?
 

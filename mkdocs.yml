@@ -2,11 +2,9 @@ site_name: Trustlines Docs
 repo_name: tl-docs
 repo_url: https://github.com/trustlines-protocol/tl-docs
 site_description: Docs for the Trustlines Network
-site_url: https://smokyish.github.io/tl-docs/docs/
-edit_uri: /tl-docs/docs/
 theme:
   name: material
-  logo: assets/images/brand/General/SVG/trustlines-mark-logo-black.svg
+  logo: assets/images/brand/General/SVG/trustlines-mark-logo-blue.svg
   favicon: assets/images/favicon.png
   features:
     - navigation.instant
@@ -38,7 +36,7 @@ copyright: Copyright &copy 2020-2021 Trustlines Foundation
 
 
 extra_css:
-  - ../tl-docs/assets/css/styles.css
+  - assets/css/styles.css
 
 extra_javascript:
   - assets/js/stats.js
@@ -69,10 +67,10 @@ extra:
   homepage: https://trustlines.network/
   alternate:
     - name: English
-      link: /en/docs/
+      link: index
       lang: en
     - name: Español
-      link: /docs/index.es
+      link: index.es
       lang: es
 
 markdown_extensions:
@@ -88,6 +86,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.smartsymbols
+  - pymdownx.tabbed
   - meta
   - toc:
       permalink: true
@@ -96,6 +95,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 plugins:
   - search:
@@ -112,39 +113,34 @@ plugins:
         es: "Esta página no está traducida al español."
       translate_nav:
         en:
-          section title: "Trustlines App Guide"
-          subsection: "Whitepaper"
-          page title: "Page with title translated"
+          Guides: "Guides"
         es:
-          section title: "asdf"
-          subsection: "Subsección"
-          page title: "Página con título traducido"
-
+          Guides: "Guías"
 
 nav:
-  - Trustlines Docs: docs/index.md
+  - Trustlines Docs: index.md
   - Whitepaper:
-    - Abstract: docs/resources/wp_content/abstract.md
-    - How Trustlines works: docs/resources/wp_content/how_trustlines_works.md
-    - Use in the real world: docs/resources/wp_content/use_in_the_real_world.md
+    - Abstract: resources/wp_content/abstract.md
+    - How Trustlines works: resources/wp_content/how_trustlines_works.md
+    - Use in the real world: resources/wp_content/use_in_the_real_world.md
   - Guides:
-    - Trustlines App Guide: docs/guides/tl_app_user_guide.md
-    - How to claim TLN from the Merkle Drop: docs/guides/how_to_claim_tln.md
-    - How to withdraw your validator deposit: docs/guides/how_to_withdraw_validator_deposit.md
-    - Converting TLN to TLC: docs/guides/converting_tln_to_tlc.md
-    - Communications Guide: docs/resources/community_communications_guide.md
+    - Trustlines App Guide: guides/tl_app_user_guide.md
+    - How to claim TLN from the Merkle Drop: guides/how_to_claim_tln.md
+    - How to withdraw your validator deposit: guides/how_to_withdraw_validator_deposit.md
+    - Converting TLN to TLC: guides/converting_tln_to_tlc.md
+    - Communications Guide: resources/community_communications_guide.md
   - Use Cases:
     - Time Credits / Time Banking:
-      - Time Credits on Trustlines: docs/use_cases/time_credits/time_credits_on_trustlines.md
-      - Time Credits - User Stories: docs/use_cases/time_credits/time_credits_user_stories.md
+      - Time Credits on Trustlines: use_cases/time_credits/time_credits_on_trustlines.md
+      - Time Credits - User Stories: use_cases/time_credits/time_credits_user_stories.md
     - Bill splitting:
-      - Bill splitting on Trustlines: docs/use_cases/bill_splitting/bill_splitting_on_trustlines.md
+      - Bill splitting on Trustlines: use_cases/bill_splitting/bill_splitting_on_trustlines.md
   - Brand:
-    - Brand Guidelines: docs/brand/brand_guidelines.md
-    - Brand Resources: docs/brand/brand_resources.md
-  - FAQ: docs/resources/FAQ.md
+    - Brand Guidelines: brand/brand_guidelines.md
+    - Brand Resources: brand/brand_resources.md
+  - FAQ: resources/FAQ.md
   - Community:
-    - Glossary: docs/resources/glossary.md
-    - Presentations: docs/resources/presentations/presentation_slides.md
+    - Glossary: resources/glossary.md
+    - Presentations: resources/presentations/presentation_slides.md
   - Legal:
-    - Trustlines Trademark Guidelines: docs/foundation/trademarks.md
+    - Trustlines Trademark Guidelines: foundation/trademarks.md

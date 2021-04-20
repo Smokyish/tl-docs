@@ -27,13 +27,13 @@ The easiest way to claim TLN from the Merkle Drop is to use the Merkle Drop webs
 
 Head on over to [https://trustlines.foundation/merkle-drop](https://trustlines.foundation/merkle-drop) to get started.
 
-<center><a class="vdw_a" href="https://trustlines.foundation/merkle-drop"><img class="vdw_img" src="../../../assets/images/tln_claim_guide/claim_mm01.png"></a></center>
+<center><a class="vdw_a" href="https://trustlines.foundation/merkle-drop"><img class="vdw_img" src=" ../../assets/images/tln_claim_guide/claim_mm01.png"></a></center>
 
 ### Check eligibility
 
 Enter your Ethereum address in the box and click on `Check eligibility` to confirm that your address is eligible to claim TLN from the Merkle Drop.
 
-<center><a class="vdw_a" href="../../../assets/images/tln_claim_guide/claim_mm02.png"><img class="vdw_img" src="../../../assets/images/tln_claim_guide/claim_mm02.png"></a></center>
+<center><a class="vdw_a" href=" ../../assets/images/tln_claim_guide/claim_mm02.png"><img class="vdw_img" src=" ../../assets/images/tln_claim_guide/claim_mm02.png"></a></center>
 
 ### Claiming the tokens
 
@@ -41,12 +41,12 @@ After entering an eligible address, you can claim your tokens.
 
 _Note: The page will show "X TLN claimable out of original Y TLN" because the amount is decaying over time. The sooner you claim, the more you get._
 
-<center><a class="vdw_a" href="../../../assets/images/tln_claim_guide/claim_mm03.png"><img class="vdw_img" src="../../../assets/images/tln_claim_guide/claim_mm03.png"></a></center>
+<center><a class="vdw_a" href=" ../../assets/images/tln_claim_guide/claim_mm03.png"><img class="vdw_img" src=" ../../assets/images/tln_claim_guide/claim_mm03.png"></a></center>
 
 You will need to **Accept** the [Terms and Conditions](https://trustlines.foundation/terms-conditions-merkle-drop.html) of the Merkle Drop in order to move forward in claiming your tokens.
 
 A MetaMask notification will pop up where you need to confirm the transaction for claiming the tokens.
 
-<center><a class="vdw_a" href="../../../assets/images/tln_claim_guide/claim_mm04.png"><img class="vdw_img" src="../../../assets/images/tln_claim_guide/claim_mm04.png"></a></center>
+<center><a class="vdw_a" href=" ../../assets/images/tln_claim_guide/claim_mm04.png"><img class="vdw_img" src=" ../../assets/images/tln_claim_guide/claim_mm04.png"></a></center>
 
 After the transaction has been confirmed, you will soon receive the TLN in your wallet.
