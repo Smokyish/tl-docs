@@ -1,20 +1,20 @@
-# Welcome to the Trustlines Docs
+# Bienvenido a los Documentos de Trustlines
 
 <div class="hero">
-<h2>Building a better financial system</h2>
-<h6>The Trustlines Network is the first project to create a universally accessible medium of exchange.</h6>
+<h2>Construyendo un mejor sistema financiero</h2>
+<h6>Trustlines Network es el primer proyecto en crear un medio de intercambio universalmente accesible.</h6>
 </div>
 
-## What is the Trustlines Network?
+## ¿Qué es Trustlines Network?
 
-The Trustlines Network is a community-driven project that empowers people to create their own [money](https://www.investopedia.com/terms/m/money.asp#:~:text=Money%20is%20an%20economic%20unit,transactional%20purposes%20in%20an%20economy.&text=Money%20originates%20in%20the%20form,as%20a%20medium%20of%20exchange.) and access digital payments. We call it People Powered Money.
+Trustlines Network es un proyecto impulsado comunitariamente que permite a las personas crear su propio dinero y acceder a pagos digitales. Lo llamamos Dinero Impulsado por las Personas.
 
-To enable People Powered Money, we are building a universally accessible payment system. It allows people to make and receive payments without any intermediaries, lessening the burden of linking a bank account or depositing any money upfront.
+Para habilitar el Dinero Impulsado por las Personas, estamos construyendo un sistema de pago de acceso universal. Permite a las personas realizar y recibir pagos sin intermediarios, lo que reduce la carga de vincular una cuenta bancaria o depositar dinero por adelantado.
 
-Visit the Trustlines Network website at[ https://trustlines.network/]( https://trustlines.network/).
+Visita el sitio web de Trustlines Network en [https://trustlines.network/](https://trustlines.network/).
 
 ___
 
-Currently the following pages have been translated to Spanish:
+Hasta los momentos, las siguientes páginas han sido traducidas al Español:
 
 - [Guía de usuario de la app de Trustlines](../docs/guides/tl_app_user_guide.es.md)
