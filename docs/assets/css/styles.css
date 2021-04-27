@@ -187,6 +187,22 @@
   .md-nav__source {
     background-color: var(--orange-secondary);
   }
+
+  label.md-header-nav__button.md-icon svg {
+    display: block !important;
+  }
+
+  a.md-header-nav__button.md-logo img {
+    display: none !important;
+  }
+
+  .md-header-nav__source {
+    display: none !important;
+  }
+
+  .md-header {
+    height: 2.5rem;
+  }
 }
 
 @media screen and (max-width: 76.1875em) {
@@ -194,6 +210,25 @@
     color: var(--md-typeset-color);
     font-size: .8rem;
     background-color: var(--orange-secondary);
+  }
+
+  label.md-header-nav__button.md-icon svg {
+    display: block !important;
+    height: 2rem;
+    width: 2rem;
+    margin: .2rem;
+  }
+
+  a.md-header-nav__button.md-logo img {
+    display: none !important;
+  }
+
+  .md-header-nav__source {
+    display: none !important;
+  }
+
+  .md-header {
+    height: 2.5rem;
   }
 
   [data-md-color-scheme="tl-dark"] .md-nav--primary .md-nav__title {
@@ -226,10 +261,6 @@
   --md-code-hl-string-color: var(--green);
   --md-code-hl-number-color: var(--red);
   --md-default-fg-color--light: var(--mid-grey);
-}
-
-[data-md-color-scheme="tl-light"] .md-tabs {
-  background-color: var(--orange-secondary);
 }
 
 [data-md-color-scheme="tl-light"] .md-typeset h1 {
@@ -515,7 +546,7 @@ p.presentation_images {
 .md-nav__title {
   padding-left: .4rem;
   font-weight: 600;
-  font-size: .7rem;
+  font-size: .9rem;
   color: var(--orange);
 }
 
@@ -536,11 +567,10 @@ p.presentation_images {
 
 .md-nav__link {
   margin-left: .4em;
-  font-size: 16px;
 }
 
 .hero {
-  background: url("../images/trustlines_hero_bg.jpg");
+  background: url("/assets/images/trustlines_hero_bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -749,4 +779,28 @@ p.presentation_images {
 
 .md-typeset hr {
   border-bottom: .075rem solid var(--light-grey);
+}
+
+.md-header {
+  position: sticky;
+  display: flex;
+}
+
+nav.md-header-nav.md-grid {
+  display: flex;
+  position: sticky;
+}
+
+a.md-header-nav__button.md-logo img {
+  width: 50px;
+  display: flex;
+  padding: 5px;
+}
+
+.md-header-nav__source {
+    width: 6rem;
+}
+
+label.md-header-nav__button.md-icon svg {
+  display: none;
 }

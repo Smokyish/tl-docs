@@ -6,11 +6,10 @@ theme:
   name: material
   logo: assets/images/brand/General/SVG/trustlines-mark-logo-blue.svg
   favicon: assets/images/favicon.png
+  custom_dir: theme
   features:
     - navigation.instant
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
     - navigation.top
     - navigation.tracking
   palette:
@@ -36,10 +35,10 @@ copyright: Copyright &copy 2020-2021 Trustlines Foundation
 
 
 extra_css:
-  - assets/css/styles.css
+  - ../assets/css/styles.css
 
 extra_javascript:
-  - assets/js/stats.js
+  - ../assets/js/stats.js
 
 extra:
   social:
@@ -67,10 +66,10 @@ extra:
   homepage: https://trustlines.network/
   alternate:
     - name: English
-      link: index
+      link: /docs/
       lang: en
     - name: Español
-      link: index.es
+      link: /docs/index.es
       lang: es
 
 markdown_extensions:
@@ -138,7 +137,8 @@ nav:
   - Brand:
     - Brand Guidelines: brand/brand_guidelines.md
     - Brand Resources: brand/brand_resources.md
-  - FAQ: resources/FAQ.md
+  - FAQ:
+    - FAQ: resources/FAQ.md
   - Community:
     - Glossary: resources/glossary.md
     - Presentations: resources/presentations/presentation_slides.md
