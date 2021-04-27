@@ -3,8 +3,6 @@ layout: page
 title: Trustlines Glossary
 ---
 
-## Glossary sheet
-
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |           |
 |:------|:----------|
 | A trustline / multiple trustlines | A trustline can be defined as a bilateral credit/trust relationship between individual people or entities. It encompasses two credit lines (each party giving one to the other party) as well as a balance which indicates if and how much credit one party has drawn from the other. |

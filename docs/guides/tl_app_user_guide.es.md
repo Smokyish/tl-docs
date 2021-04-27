@@ -7,7 +7,7 @@ image: https://docs.trustlines.network/assets/images/app_user_guide/tl_app_heade
 !!! note "Nota"
     Las imágenes de esta guía son para fines educativos y es posible que no muestren los últimos cambios en la aplicación.
 
-<center><a href="https://trustlines.app/" target="_blank"><img class="app_guide_headerimg" src="../../../assets/images/app_user_guide/phone.png"></a>
+<center><a href="https://trustlines.app/" target="_blank"><img class="app_guide_headerimg" src="../../assets/images/app_user_guide/phone.png"></a>
 
 <p class="app_guide_dl">You can get the Trustlines App for Android and iOS from <a href="https://trustlines.app/" target="_blank">https://trustlines.app</a></p></center>
 
@@ -39,19 +39,19 @@ Selecciona la opción correcta para ti; [empezando con un enlace de invitación]
 
 Es posible que hayas recibido una invitación de alguien a tráves de un link para usar Trustlines App. Este link te permitirá configurar tu cuenta y ¡crear tu primera Trustline!
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/trustline_invitation.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/trustline_invitation.png"></a><a href="../../../assets/images/app_user_guide/v1.11/sign_up_login.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/sign_up_login.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/trustline_invitation.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_invitation.png"></a><a href="../../assets/images/app_user_guide/v1.11/sign_up_login.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sign_up_login.png"></a></center>
 
 1-.Lo primero que debes hacer al registrarte para obtener una nueva cuenta es aceptar los Términos y Condiciones. Al aceptar los Términos y Condiciones, la aplicación generará automáticamente una nueva cuenta para ti.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"></a><a href="../../../assets/images/app_user_guide/v1.11/generating_account.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/generating_account.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"></a><a href="../../assets/images/app_user_guide/v1.11/generating_account.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/generating_account.png"></a></center>
 
 2.- Una vez completada la creación de la cuenta, puedes elegir el nombre que quieres enseñar. Elige el nombre que deseas usar en la aplicación y estarás listo para crear tu primera trustline.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/choose_name.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/choose_name.png"></a><a href="../../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/your_first_trustline.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/choose_name.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_name.png"></a><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"></a></center>
 
 3.- Cómo creaste la cuenta a través de un enlace de invitación, ya hay una solicitud de trustline lista para que la revises. Te mostrará el nombre de la otra persona, qué red de divisas está sugiriendo para la trustline, así como los límites de crédito sugeridos. Una solicitud de trustline de un nuevo enlace de invitación es ligeramente diferente de otras y se activará solo después de que se envíe de vuelta a su nuevo compañero para su aprobación final.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/your_first_trustline_review.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/your_first_trustline_review.png"></a><a href="../../../assets/images/app_user_guide/v1.11/your_first_trustline_pending.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/your_first_trustline_pending.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline_review.png"></a><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline_pending.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline_pending.png"></a></center>
 
 Eso es todo. ¡Ya estás listo para comenzar a usar Trustlines!
 
@@ -65,27 +65,27 @@ ___
 
 1.- Lo primero que debes hacer al registrarte para obtener una nueva cuenta es aceptar los Términos y Condiciones
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/sign_up_login.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/sign_up_login.png"></a><a href="../../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/sign_up_login.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sign_up_login.png"></a><a href="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/terms_and_conditions.png"></a></center>
 
 2.- Al aceptar los Términos y Condiciones, la aplicación generará automáticamente una nueva cuenta. Una vez creada la cuenta, puedes elegir tu nombre dentro de  la app.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/generating_account.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/generating_account.png"></a><a href="../../../assets/images/app_user_guide/v1.11/choose_name.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/choose_name.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/generating_account.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/generating_account.png"></a><a href="../../assets/images/app_user_guide/v1.11/choose_name.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_name.png"></a></center>
 
 3.- Después de elegir un nombre que desees usar en la aplicación, ¡estás listo para crear tu primera trustline! Puedes  añadir a tu compañero escaneando su código QR o ingresando su dirección. ¡Asegúrate de ponerles un nombre para que puedas ver fácilmente con quién estás interactuando!
 
 También puedes omitir este paso y crear una nueva trustline más adelante, ¡pero la aplicación no es útil sin al menos una!
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><a href="../../../assets/images/app_user_guide/v1.11/trustline_partner.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/trustline_partner.png"></a></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/your_first_trustline.png"><a href="../../assets/images/app_user_guide/v1.11/trustline_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_partner.png"></a></a></center>
 
 4.- Tras agregar a tu compañero, deberás escoger una red de divisas para esta trustline. En la siguiente pantalla deberás escoger el límite de crédito de la trustline.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"></a><a href="../../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"></a><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a></center>
 
 5.- Revisa y aprueba los detalles de la trustline que deseas crear antes de enviarla, y listo, ¡estás listo para usar la aplicación de Trustlines!
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/trustline_review_sign_up.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/trustline_review_sign_up.png"></a><a href="../../../assets/images/app_user_guide/v1.11/trustline_pending.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/trustline_pending.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/trustline_review_sign_up.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_review_sign_up.png"></a><a href="../../assets/images/app_user_guide/v1.11/trustline_pending.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_pending.png"></a></center>
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/dashboard_trustline_pending.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/dashboard_trustline_pending.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/dashboard_trustline_pending.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/dashboard_trustline_pending.png"></a></center>
 
 ## Asegurando el acceso a tu cuenta de Trustlines
 
@@ -99,13 +99,13 @@ Copiar tu frase de seguridad garantizará que podrás entrar a tu cuenta en caso
 
 1.- Para iniciar, ve a la pestaña Cuenta en la barra de menú. Allí, selecciona Frase de Seguridad para iniciar el proceso de resguardo.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../../assets/images/app_user_guide/v1.11/backup_passphrase.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/backup_passphrase.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../assets/images/app_user_guide/v1.11/backup_passphrase.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/backup_passphrase.png"></a></center>
 
 2.- El siguiente paso te mostrará la frase de seguridad personal asociada con tu cuenta. Esta frase de seguridad tiene 12 palabras. Debes copiarlas en un lugar seguro, como un administrador de contraseñas. Después de copiar tu frase, deberás verificar que la hayas guardado correctamente.
 
 La aplicación te pedirá que ingreses la frase de seguridad de 12 palabras en el orden correcto, asegurándose así de que la hayas copiado correctamente y permitiéndote acceder a tu cuenta en el futuro si es necesario.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/copy_passphrase.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/copy_passphrase.png"></a><a href="../../../assets/images/app_user_guide/v1.11/verify_passphrase.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/verify_passphrase.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/copy_passphrase.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/copy_passphrase.png"></a><a href="../../assets/images/app_user_guide/v1.11/verify_passphrase.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/verify_passphrase.png"></a></center>
 
 Estos son todos los pasos necesarios para asegurar el acceso a tu cuenta. Como recordatorio, **guardar tu frase de seguridad como captura de pantalla, en tu email o un servicio en la nube no es una forma segura de almacenarla**.
 
@@ -151,13 +151,13 @@ He aquí un ejemplo de cómo se vería la información de tu cuenta.
 
 Dirígete a la pestaña Cuentas en la barra de menú. Allí encontrarás la opción Copia de seguridad de datos. Presiona Crear Copia de Seguridad, aparecerá una selección de cómo deseas guardar los datos. Los datos se guardarán en un archivo con formato de texto (archivo .txt), que contiene los datos en lenguaje JSON, el cual podrás copiar y guardar en cualquier lugar, o seleccionar directamente una opción para guardarlo en tu dispositivo.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../../assets/images/app_user_guide/v1.11/backup_data.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/backup_data.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../assets/images/app_user_guide/v1.11/backup_data.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/backup_data.png"></a></center>
 
 ### Restaurar una copia de Seguridad
 
 Dirígete a la pestaña Cuentas en la barra de menú. Allí encontrarás la opción Restaurar datos. Esto te permitirá pegar los datos para restaurar tus datos. Como se mencionó anteriormente, los datos estarán en un archivo de texto (archivo .txt), que puedes copiar y pegar desde donde los guardaste al realizar tu copia de seguridad.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../../assets/images/app_user_guide/v1.11/restore_data.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/restore_data.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/account_view.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/account_view.png"></a><a href="../../assets/images/app_user_guide/v1.11/restore_data.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/restore_data.png"></a></center>
 
 ## Creando una trustline
 
@@ -171,25 +171,25 @@ Desde el Panel de control en la vista principal puedes iniciar el proceso tocand
 
 1.- El primer paso es seleccionar qué red de divisas y, por lo tanto, la denominación que deseas utilizar para esta trustline específica.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/dashboard.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/dashboard.png"></a><a href="../../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/dashboard.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/dashboard.png"></a><a href="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/choose_currency_network_simple.png"></a></center>
 
 2.- Luego, debes establecer un límite de crédito para la trustline. Es mejor acordar esto en conjunto mientras crean la trustline. El modo avanzado ofrece más opciones si deseas establecer diferentes límites de crédito para ti y tu compañero, cómo agregar un interés personalizado para la trustline.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a><a href="../../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"></a></center>
 
 3.- Después de seleccionar el límite de crédito para la trustline, revisa bien la solicitud antes de seleccionar a tu compañero.
 
 En este punto, puedes elegir compartir un enlace para enviarlo a un destinatario, es decir, usando una aplicación de mensajería, correo electrónico, etc., compartir tu código QR para escanear, o puedes seleccionar a un compañero de la lista de contactos existentes, pegar la dirección de cuenta de tu compañero o escanear el código QR.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/review_trustline_cn.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/review_trustline_cn.png"></a><a href="../../../assets/images/app_user_guide/v1.11/trustline_creation_choose_partner.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/trustline_creation_choose_partner.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/review_trustline_cn.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/review_trustline_cn.png"></a><a href="../../assets/images/app_user_guide/v1.11/trustline_creation_choose_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_creation_choose_partner.png"></a></center>
 
 Al seleccionar la opción Compartir al elegir un compañero podrás compartir tu propio código QR o, de seleccionar Compartir nuevamente, para enviar un enlace de solicitud trustline a alguien. Ambas opciones contendrán la información que se seleccionó previamente para la solicitud de trustline.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/share_trustline_qr_code.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/share_trustline_qr_code.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/share_trustline_qr_code.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/share_trustline_qr_code.png"></a></center>
 
 Si has seleccionado otra opción como un contacto existente, revisa los detalles asegurando que todo esté correcto, y ¡envía tu solicitud!
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/trustline_review.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/trustline_review.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/trustline_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/trustline_review.png"></a></center>
 
 ## Añadiendo  un contacto
 
@@ -197,7 +197,7 @@ Para agregar un contacto, su compañero debe compartir la dirección de su cuent
 
 El compañero que estás agregando debe ir a la pestaña Cuenta en la barra de menú y seleccionar Mostrar QR en la parte superior de la pantalla.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/contacts.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/contacts.png"></a><a href="../../../assets/images/app_user_guide/v1.11/add_contact.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/add_contact.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/contacts.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/contacts.png"></a><a href="../../assets/images/app_user_guide/v1.11/add_contact.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/add_contact.png"></a></center>
 
 Simplemente escanea su código QR dándole al botón Escanear ¡Y listo!
 
@@ -213,7 +213,7 @@ Para habilitar diferentes redes de divisas, simplemente selecciona la pestaña C
 
 Las redes de divisas también se pueden habilitar durante el proceso de creación de trustlines sin necesidad de habilitarlas por adelantado.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/currencies.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/currencies.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/currencies.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/currencies.png"></a></center>
 
 ___
 
@@ -221,13 +221,13 @@ ___
 
 Cada trustline consta de dos líneas de crédito. De forma predeterminada, te sugerimos que establezcas ambos límites en el mismo valor. Es mejor discutir esto en conjunto mientras establecen los números. Seleccionar el modo avanzado permitirá establecer dos valores; a la izquierda es la cantidad que prestarías a tu compañero y a la derecha es la cantidad que puedes pedir prestada a tu compañero. Lo que puedes "Pedir prestado" se considera tu "límite de gasto" con este compañero. Estas dos cantidades se pueden establecer según lo que tu compañero y tú acuerden. Algunas redes de divisas también tienen la opción de agregar intereses a cualquiera de estas líneas de crédito.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a><a href="../../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_simple.png"></a><a href="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/set_credit_limit_advanced.png"></a></center>
 
 ## Como ver tu límite de crédito global
 
 Estando en Panel de control, verás un gran número en la parte superior, con la palabra "Disponible" debajo, y los botones "Enviar" y "Recibir". Este número no es tu saldo. En cambio, es tu crédito global disponible, la suma de todo el crédito disponible en cada trustline que hayas abierto dentro de una red de divisas en particular. (Es similar al límite de crédito en una tarjeta de crédito).
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/dashboard.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/dashboard.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/dashboard.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/dashboard.png"></a></center>
 
 Este número disminuirá cada vez que realices un pago mediante la aplicación Trustlines porque el pago agota el crédito disponible.
 
@@ -245,9 +245,9 @@ Para enviar un pago a alguien que aún no conoces, puedes escanear su QR con la 
 
 Si es alguien con quien planeas volver a realizar transacciones en el futuro, también puedes agregarlo como contacto (consulta Agregar un contacto). Si ya los tienes como contacto, puedes presionar Enviar directamente desde el Panel de control. Asegúrate de seleccionar la red de divisas correcta antes de presionar Enviar.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/sending_choose_contact.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/sending_choose_contact.png"></a><a href="../../../assets/images/app_user_guide/v1.11/sending_details.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/sending_details.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/sending_choose_contact.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sending_choose_contact.png"></a><a href="../../assets/images/app_user_guide/v1.11/sending_details.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sending_details.png"></a></center>
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/sending_review.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/sending_review.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/sending_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/sending_review.png"></a></center>
 
 ### Solicitar pagos mediante Trustlines
 
@@ -255,41 +255,41 @@ Para solicitar un pago a alguien, presiona el botón Solicitud en el Panel de co
 
 Deberás ingresar la cantidad que estás solicitando, elegir un compañero al que enviar la solicitud y revisar la solicitud antes de confirmar. También puedes dividir fácilmente el pago entre varias personas seleccionando la opción “Dividir Factura” / Split Bill”.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/payment_request.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/payment_request.png"></a><a href="../../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/payment_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/payment_request.png"></a><a href="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"></a></center>
 
 Al seleccionar Compartir al elegir un compañero, verás la opción de compartir tu propio código QR o de seleccionar Compartir nuevamente puedes enviar el enlace de solicitud de pago a alguien más. Ambas opciones contendrán la información previamente seleccionada en la solicitud de pago.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/share_payment_request.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/share_payment_request.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/share_payment_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/share_payment_request.png"></a></center>
 
 Si has seleccionado otra opción, como un contacto existente, revisa los detalles, asegurándote de que todo esté correcto, y ¡Envía tu solicitud!
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/payment_request_review.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/payment_request_review.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/payment_request_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/payment_request_review.png"></a></center>
 
 ### Dividir la cuenta
 
 Con la aplicación Trustlines, puedes dividir fácilmente un pago entre varias personas. Empieza a solicitar el pago como lo harías normalmente y, cuando llegues a la pantalla Elegir compañero, selecciona la opción “Dividir Factura / Split Bill”.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/split_payment_request.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/split_payment_request.png"></a><a href="../../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/split_payment_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_payment_request.png"></a><a href="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_payment_request_choose_partner.png"></a></center>
 
 Aparecerá la pantalla de solicitud de dividir factura, indicando que solicitas un pago entre varios contactos. A continuación, selecciona a las personas a las que deseas enviar esta solicitud de pago.
 
 También puedes incluirte a tí mismo en esta solicitud. Esto es especialmente útil si estás dividiendo un pago de manera uniforme entre participantes de una actividad.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/split_request.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/split_request.png"></a><a href="../../../assets/images/app_user_guide/v1.11/split_request_choose_partners.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/split_request_choose_partners.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/split_request.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_request.png"></a><a href="../../assets/images/app_user_guide/v1.11/split_request_choose_partners.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_request_choose_partners.png"></a></center>
 
 De forma predeterminada, la cantidad que solicites se dividirá en partes iguales entre las personas seleccionadas. También existe la opción de cambiar las sumas manualmente ingresando las cantidades por persona.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/split_request_sums_even.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/split_request_sums_even.png"></a><a href="../../../assets/images/app_user_guide/v1.11/split_request_sums_manual.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/split_request_sums_manual.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/split_request_sums_even.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_request_sums_even.png"></a><a href="../../assets/images/app_user_guide/v1.11/split_request_sums_manual.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_request_sums_manual.png"></a></center>
 
 Revisa solicitud de pago y ¡Envía varias solicitudes con un solo click!
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/split_request_review.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/split_request_review.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/split_request_review.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/split_request_review.png"></a></center>
 
 ## Revisar los balances con mis contactos
 
 Al seleccionar un contacto en la vista de Contactos, verás todas las trustlines que tienes con esa persona. Desliza el dedo hacia la izquierda y hacia la derecha para ver diferentes redes de divisas. Cada trustline mostrará de forma destacada el crédito disponible en la parte superior. Debajo se muestran tres números: Saldo, Línea de crédito otorgada y Línea de crédito recibida.
 
-<center><a href="../../../assets/images/app_user_guide/v1.11/contact_details.png"><img class="app_guide_img" src="../../../assets/images/app_user_guide/v1.11/contact_details.png"></a></center>
+<center><a href="../../assets/images/app_user_guide/v1.11/contact_details.png"><img class="app_guide_img" src="../../assets/images/app_user_guide/v1.11/contact_details.png"></a></center>
 
 Los montos de las líneas de crédito otorgadas y recibidas corresponden a los dos límites de crédito que tu compañero y tú acordaron para esta trustline. En otras palabras, esta es la línea de crédito que le has dado a tu compañero y la línea de crédito que has recibido de tu compañero.
 
