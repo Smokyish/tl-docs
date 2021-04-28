@@ -10,7 +10,7 @@
 {% if nav_item.children %}
 
 <!-- Determine whether to render item as a section -->
-{% if "navigation.sections" in features and level == 0 + (
+{% if "navigation.sections" in features and level == 1 + (
       "navigation.tabs" in features
     ) %}
 {% set class = class ~ " md-nav__item--section" %}
@@ -28,10 +28,6 @@
   {% endif %}
 
   <!-- Expand active pages -->
-  <label class="md-nav__link" for="{{ path }}">
-    {{ nav_item.title }}
-    <span class="md-nav__icon md-icon"></span>
-  </label>
   <nav class="md-nav" aria-label="{{ nav_item.title }}" data-md-level="{{ level }}">
     <label class="md-nav__title" for="{{ path }}">
       <span class="md-nav__icon md-icon"></span>
