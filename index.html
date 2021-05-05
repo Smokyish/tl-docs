@@ -20,6 +20,7 @@
       
     
     
+    
       <link rel="stylesheet" href="assets/stylesheets/main.33e2939f.min.css">
       
         
@@ -27,13 +28,18 @@
         
       
     
+    <link rel="stylesheet" href="./css/lightgallery.min.css">
+
     
+    
+    <script src="./js/lightgallery.min.js"></script>
+
     
       
     
     
     
-      <link rel="stylesheet" href="assets/css/styles.css">
+      <link rel="stylesheet" href="../assets/css/styles.css">
     
     
       
@@ -127,13 +133,13 @@
             <ul class="md-select__list">
               
                 <li class="md-select__item">
-                  <a href="index" class="md-select__link">
+                  <a href="/docs/" class="md-select__link">
                     English
                   </a>
                 </li>
                 
                 <li class="md-select__item">
-                  <a href="index.es" class="md-select__link">
+                  <a href="/docs/index.es" class="md-select__link">
                     Español
                   </a>
                 </li>
@@ -290,11 +296,15 @@
   
 
 
-  <li class="md-tabs__item">
-    <a href="resources/FAQ/" class="md-tabs__link">
-      FAQ
-    </a>
-  </li>
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="resources/FAQ/" class="md-tabs__link">
+        FAQ
+      </a>
+    </li>
+  
 
       
         
@@ -610,9 +620,7 @@
   
   
     
-      
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
       
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_1" type="checkbox" id="__nav_4_1" >
@@ -663,9 +671,7 @@
   
   
     
-      
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
       
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_2" type="checkbox" id="__nav_4_2" >
@@ -766,10 +772,37 @@
   
   
   
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      <label class="md-nav__link" for="__nav_6">
+        FAQ
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="FAQ" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          FAQ
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
     <li class="md-nav__item">
       <a href="resources/FAQ/" class="md-nav__link">
         FAQ
       </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
     </li>
   
 
@@ -805,6 +838,18 @@
     <li class="md-nav__item">
       <a href="resources/glossary/" class="md-nav__link">
         Glossary
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="docs/resources/code_of_conduct.md" class="md-nav__link">
+        Code of Conduct
       </a>
     </li>
   
@@ -922,6 +967,7 @@
 <li class="i18n-link i18n-link-found i18n-link-es"><a href="index.es/">Español</a></li>
 </ul>
 <h1 id="welcome-to-the-trustlines-docs">Welcome to the Trustlines Docs<a class="headerlink" href="#welcome-to-the-trustlines-docs" title="Permanent link">&para;</a></h1>
+<p><a href="index.es/"><img alt="🇪🇸" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f8.svg" title=":es:" /></a></p>
 <div class="hero">
 <h2>Building a better financial system</h2>
 <h6>The Trustlines Network is the first project to create a universally accessible medium of exchange.</h6>
@@ -930,7 +976,7 @@
 <h2 id="what-is-the-trustlines-network">What is the Trustlines Network?<a class="headerlink" href="#what-is-the-trustlines-network" title="Permanent link">&para;</a></h2>
 <p>The Trustlines Network is a community-driven project that empowers people to create their own <a href="https://www.investopedia.com/terms/m/money.asp#:~:text=Money%20is%20an%20economic%20unit,transactional%20purposes%20in%20an%20economy.&amp;text=Money%20originates%20in%20the%20form,as%20a%20medium%20of%20exchange.">money</a> and access digital payments. We call it People Powered Money.</p>
 <p>To enable People Powered Money, we are building a universally accessible payment system. It allows people to make and receive payments without any intermediaries, lessening the burden of linking a bank account or depositing any money upfront.</p>
-<p>Visit the Trustlines Network website at<a href="https://trustlines.network/"> https://trustlines.network/</a>.</p>
+<p>Visit the Trustlines Network website at <a href="https://trustlines.network/">https://trustlines.network/</a>.</p>
                 
               
               
@@ -1039,13 +1085,21 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.instant", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.top", "navigation.tracking"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "assets/javascripts/workers/search.fe42c31b.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.instant", "navigation.tabs", "navigation.top", "navigation.tracking"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "assets/javascripts/workers/search.fe42c31b.min.js", "version": null}</script>
+    
     
     
       <script src="assets/javascripts/bundle.d892486b.min.js"></script>
       
-        <script src="assets/js/stats.js"></script>
+        <script src="../assets/js/stats.js"></script>
       
     
+    <script>
+    var elements = document.getElementsByClassName("lightgallery");
+    for(var i=0; i<elements.length; i++) {
+       lightGallery(elements[i]);
+    }
+    </script>
+
   </body>
 </html>

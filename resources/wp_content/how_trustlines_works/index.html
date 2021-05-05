@@ -20,6 +20,7 @@
       
     
     
+    
       <link rel="stylesheet" href="../../../assets/stylesheets/main.33e2939f.min.css">
       
         
@@ -27,13 +28,18 @@
         
       
     
+    <link rel="stylesheet" href="../../../css/lightgallery.min.css">
+
     
+    
+    <script src="../../../js/lightgallery.min.js"></script>
+
     
       
     
     
     
-      <link rel="stylesheet" href="../../../assets/css/styles.css">
+      <link rel="stylesheet" href="../../../../assets/css/styles.css">
     
     
       
@@ -127,13 +133,13 @@
             <ul class="md-select__list">
               
                 <li class="md-select__item">
-                  <a href="../../../index" class="md-select__link">
+                  <a href="/docs/" class="md-select__link">
                     English
                   </a>
                 </li>
                 
                 <li class="md-select__item">
-                  <a href="../../../index.es" class="md-select__link">
+                  <a href="/docs/index.es" class="md-select__link">
                     Español
                   </a>
                 </li>
@@ -290,11 +296,15 @@
   
 
 
-  <li class="md-tabs__item">
-    <a href="../../FAQ/" class="md-tabs__link">
-      FAQ
-    </a>
-  </li>
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../FAQ/" class="md-tabs__link">
+        FAQ
+      </a>
+    </li>
+  
 
       
         
@@ -807,9 +817,7 @@
   
   
     
-      
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
       
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_1" type="checkbox" id="__nav_4_1" >
@@ -860,9 +868,7 @@
   
   
     
-      
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
       
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_2" type="checkbox" id="__nav_4_2" >
@@ -963,10 +969,37 @@
   
   
   
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      <label class="md-nav__link" for="__nav_6">
+        FAQ
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="FAQ" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          FAQ
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
     <li class="md-nav__item">
       <a href="../../FAQ/" class="md-nav__link">
         FAQ
       </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
     </li>
   
 
@@ -1002,6 +1035,18 @@
     <li class="md-nav__item">
       <a href="../../glossary/" class="md-nav__link">
         Glossary
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../docs/resources/code_of_conduct.md" class="md-nav__link">
+        Code of Conduct
       </a>
     </li>
   
@@ -1329,14 +1374,14 @@
 <h3 id="22-what-is-a-trustline">2.2 What is a trustline?<a class="headerlink" href="#22-what-is-a-trustline" title="Permanent link">&para;</a></h3>
 <p>A trustline is a bilateral credit relationship between two partners. Every trustline consists of two corresponding credit lines (each partner giving one to the other partner) as well as a balance that indicates if and how much credit one partner has drawn from the other.</p>
 <div class="captioned_image_wp_small">
-<center><a href=" ../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"><img class="tc_img" src="  ../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"></a></center>
+<center><a href="../../../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"><img class="tc_img" src="../../../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"></a></center>
 </div>
 
 <p>A trustline can represent different kinds of credit relationships, like a contract with or without collateral that is legally binding, or simply an agreement between friends. This makes a trustline a formal representation of a real world agreement between two entities that are willing to lend value to each other. This trustline enables Alice to make credit-based payments to Bob, and vice versa.</p>
 <h3 id="23-credit-lines">2.3 Credit lines<a class="headerlink" href="#23-credit-lines" title="Permanent link">&para;</a></h3>
 <p>A credit line is a preset borrowing limit (credit limit) that can be used at any time and represents the highest amount that can be borrowed.</p>
 <div class="captioned_image_wp_small">
-<center><a href="  ../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"><img class="tc_img" src="  ../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"></a></center>
+<center><a href="../../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"></a></center>
 </div>
 
 <p>In this example, Alice and Bob each give a credit line with a credit limit of ten. Ten is the maximum amount each of them would be able to borrow from the other.</p>
@@ -1344,14 +1389,14 @@
 <p>Even when two users do not have a trustline, they can still transfer value, as long as there is a path of trustlines connecting them. In a multi-hop payment, each user along the path of connected trustlines automatically sends credit to the next, until the last user receives credit. This process can also be referred to as rippling a payment. The net value transfer is always exclusively between the sender and receiver without the intermediaries needing to take any action.</p>
 <p>For example, Alice wants to pay Charlie using credit. Because Charlie does not share a trustline with Alice, she cannot directly pay him with credit. Luckily, Bob is a mutual friend! This means Alice can pay Charlie by "rippling" credit through Bob.</p>
 <div class="captioned_image_wp_small">
-<center><a href="  ../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"><img class="tc_img" src="  ../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"></a></center>
+<center><a href="../../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"></a></center>
 </div>
 
 <p>Before the transfer, Bob's balance with Alice was zero. Bob's balance with Charlie was also zero. During the transfer, Bob's balance with Alice increased to "plus five," while his balance with Charlie decreased to "minus five." However, Bob's net balance remains unchanged at zero (-5+5=0). Because Bob is only an intermediary, this transaction happens automatically without Bob needing to take any action.</p>
 <h3 id="25-the-network-effect">2.5 The network effect<a class="headerlink" href="#25-the-network-effect" title="Permanent link">&para;</a></h3>
 <p>People that are not connected through a trustline can make multi-hop payments via any path of direct connected trustlines. </p>
 <div class="captioned_image">
-<center><a href="  ../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"><img class="tc_img" src="  ../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"></a></center>
+<center><a href="../../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"></a></center>
 </div>
 
 <p>Leveraging the network effect, users only need a small amount of trustlines to transact with a large number of people. This is clearer in the context of the <a href="https://en.wikipedia.org/wiki/Six_degrees_of_separation">six degrees of separation</a> concept.</p>
@@ -1359,7 +1404,7 @@
 <h3 id="26-fault-tolerance">2.6 Fault tolerance<a class="headerlink" href="#26-fault-tolerance" title="Permanent link">&para;</a></h3>
 <p>So, why not create fake accounts with "fake credit" to use in the network? This can't actually do much damage because the system relies on individual, trusted relationships. This is important to consider for designing scalable systems.</p>
 <div class="captioned_image">
-<center><a href="  ../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"><img class="tc_img" src="  ../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"></a></center>
+<center><a href="../../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"></a></center>
 </div>
 
 <p>For example, Eve created duplicate accounts to give herself millions in fake credit. But Eve's spending limit with the network is determined by the credit limit her friends have given her. In this example, Alice has given Eve a credit limit of ten. Because she knows Eve in real life and opening a Trustline needs the approval of both parties involved, Alice isn't going to create additional trustlines with the duplicate Eve accounts. Nor is she going to accept millions in credit from the real Eve.</p>
@@ -1402,6 +1447,8 @@
 <p>Instead, Trustlines delegates offer a service to pay transaction fees on behalf of end users. They may offer this for free in support of the community, or allow users to reimburse them using credit within an accepted Trustlines currency network. This can be useful for many different entities: Community groups that want to enable local economic activity, businesses that want to pay for the transactions of their customers, or simply third parties that want to encourage users to use Trustlines without them needing to deal with transaction costs.</p>
 <h2 id="4-trustlines-protocol-technology-stack">4. Trustlines Protocol technology stack<a class="headerlink" href="#4-trustlines-protocol-technology-stack" title="Permanent link">&para;</a></h2>
 <p>The full Trustlines Protocol technology stack is composed of four main components. These components are each a part of the Trustlines Protocol.</p>
+<div class="admonition info">
+<p class="admonition-title">Trustlines Protocol technology stack</p>
 <ol>
 <li>
 <p>The Trustlines Blockchain, aka TLBC. A minimal viable Proof-of-Stake (mPoS) Ethereum sidechain. It stores and processes transactions.</p>
@@ -1416,6 +1463,7 @@
 <p>The client library. A high-level API which enables applications to interact with the smart contract system on the blockchain via the relay servers.</p>
 </li>
 </ol>
+</div>
 <h3 id="41-trustlines-blockchain">4.1 Trustlines Blockchain<a class="headerlink" href="#41-trustlines-blockchain" title="Permanent link">&para;</a></h3>
 <p>The Trustlines Blockchain, aka TLBC, is a minimal viable Proof-of-Stake (mPoS) Ethereum sidechain.</p>
 <p>Pseudo-anonymous validators run TLBC to ensure censorship-resistance. TLBC can adapt to changes required to ensure scalability, low transaction costs, and censorship-resistance. Its aim is to fulfill the following predefined requirements:</p>
@@ -1502,6 +1550,8 @@
 <h2 id="5-cryptoeconomics-of-the-trustlines-protocol">5. Cryptoeconomics of the Trustlines Protocol<a class="headerlink" href="#5-cryptoeconomics-of-the-trustlines-protocol" title="Permanent link">&para;</a></h2>
 <h3 id="51-tokens">5.1 Tokens<a class="headerlink" href="#51-tokens" title="Permanent link">&para;</a></h3>
 <p>There are two different tokens used in connection with Trustlines:</p>
+<div class="admonition info">
+<p class="admonition-title">The Trustlines Network Token (TLN)</p>
 <ul>
 <li>
 <p>The Trustlines Network Token (TLN) is an ERC-20 token on the <a href="https://ethereum.org/">Ethereum</a> mainchain. Since this is a popular token standard, TLN is highly versatile, easily transferable, and generally very accessible for the Ethereum community.</p>
@@ -1515,6 +1565,11 @@
 <li>
 <p>TLN can be converted into TLC via a bridge. No bridge exists for TLC to TLN conversion.</p>
 </li>
+</ul>
+</div>
+<div class="admonition info">
+<p class="admonition-title">The Trustlines Network Coin (TLC)</p>
+<ul>
 <li>
 <p>The Trustlines Network Coin (TLC) is the native token of the Trustlines Blockchain, which means it is useful for people who are using the Trustlines Protocol in their everyday lives.</p>
 </li>
@@ -1525,6 +1580,7 @@
 <p>Typically, it is the relay server operators that enable delegate services who use the most TLC.</p>
 </li>
 </ul>
+</div>
 <h3 id="52-fees">5.2 Fees<a class="headerlink" href="#52-fees" title="Permanent link">&para;</a></h3>
 <p>There are different fees necessary for the system to function correctly. Transaction fees are payable in TLC. All other fees are payable using credit within each currency network. End users do not need to hold TLC in order to pay any fees.</p>
 <h4>5.2.1 Trustlines Blockchain transaction fee (aka gas)</h4>
@@ -1554,20 +1610,20 @@
 <h4>5.4.1 Validator incentives</h4>
 <p>The validators have the responsibility of ensuring the security of the Trustlines Blockchain by validating transactions and adding blocks to the blockchain. They earn TLC from transactions and as block rewards.</p>
 <h4>5.4.2 Token bridge</h4>
-<p>The token bridge is a unidirectional bridge between the Ethereum blockchain and the Trustlines Blockchain. It is run by the Trustlines validators. <a href="../../../guides/converting_tln_to_tlc.md">It allows TLN holders to transfer these tokens to the Trustlines Blockchain</a> in return for TLC.</p>
+<p>The token bridge is a unidirectional bridge between the Ethereum blockchain and the Trustlines Blockchain. It is run by the Trustlines validators. <a href="../../../guides/converting_tln_to_tlc/">It allows TLN holders to transfer these tokens to the Trustlines Blockchain</a> in return for TLC.</p>
 <h4>5.4.3 Trustlines Blockchain governance</h4>
 <p>Validators can also decide on blockchain forks and resulting protocol changes with the rest of the Trustlines ecosystem. After some time of inactivity, active validators will most likely propose a fork that would remove inactive validators from the active validator set. </p>
 <h4>5.4.4 Validator auction</h4>
 <p><a href="https://trustlines.foundation/auction.html">The Trustlines validator auction</a> is a Dutch auction held every 9 months to discover the fair price of a validator slot. The Ethereum addresses of successful bidders in a successful auction will be included in the validator set.</p>
-<p>The validator slot price is defined as the last successful bid. <a href="../../../guides/how_to_withdraw_validator_deposit.md">This amount will be locked as each validator's stake</a> for nine months. Any validator who placed a bid above this final price can withdraw the difference at this point (after the auction smart contract reaches withdrawal state). <a href="https://blog.trustlines.network/all-you-need-to-know-as-a-validator-after-an-auction/">After the conclusion of the auction</a>, each validator will be able to start their Trustlines Blockchain node with validator rights and can begin proposing blocks.</p>
-<ul>
-<li>
-<p>Acceptable tokens for a bid: The validator auction takes place on a smart contract on the Ethereum mainchain. The smart contract will not accept any other tokens than TLN as a bid.</p>
-</li>
-<li>
-<p>Participation: To be able <a href="https://blog.trustlines.network/the-second-validator-auction-for-the-trustlines-blockchain/">to take part in the auction</a>, your Ethereum address must have been whitelisted by the Trustlines Foundation before the start of the auction. Every whitelisted Ethereum address can participate in the auction only once.</p>
-</li>
-</ul>
+<p>The validator slot price is defined as the last successful bid. <a href="../../../guides/how_to_withdraw_validator_deposit/">This amount will be locked as each validator's stake</a> for nine months. Any validator who placed a bid above this final price can withdraw the difference at this point (after the auction smart contract reaches withdrawal state). <a href="https://blog.trustlines.network/all-you-need-to-know-as-a-validator-after-an-auction/">After the conclusion of the auction</a>, each validator will be able to start their Trustlines Blockchain node with validator rights and can begin proposing blocks.</p>
+<div class="admonition info">
+<p class="admonition-title">Acceptable tokens for a bid</p>
+<p>The validator auction takes place on a smart contract on the Ethereum mainchain. The smart contract will not accept any other tokens than TLN as a bid.</p>
+</div>
+<div class="admonition info">
+<p class="admonition-title">Participation</p>
+<p>To be able <a href="https://blog.trustlines.network/the-second-validator-auction-for-the-trustlines-blockchain/">to take part in the auction</a>, your Ethereum address must have been whitelisted by the Trustlines Foundation before the start of the auction. Every whitelisted Ethereum address can participate in the auction only once.</p>
+</div>
                 
                   
                 
@@ -1692,13 +1748,21 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.instant", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.top", "navigation.tracking"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../../assets/javascripts/workers/search.fe42c31b.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.instant", "navigation.tabs", "navigation.top", "navigation.tracking"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../../assets/javascripts/workers/search.fe42c31b.min.js", "version": null}</script>
+    
     
     
       <script src="../../../assets/javascripts/bundle.d892486b.min.js"></script>
       
-        <script src="../../../assets/js/stats.js"></script>
+        <script src="../../../../assets/js/stats.js"></script>
       
     
+    <script>
+    var elements = document.getElementsByClassName("lightgallery");
+    for(var i=0; i<elements.length; i++) {
+       lightGallery(elements[i]);
+    }
+    </script>
+
   </body>
 </html>
