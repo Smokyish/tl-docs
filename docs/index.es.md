@@ -1,5 +1,7 @@
 # Bienvenido a los Documentos de Trustlines
 
+[:gb:](index.md)
+
 <div class="hero">
 <h2>Construyendo un mejor sistema financiero</h2>
 <h6>Trustlines Network es el primer proyecto en crear un medio de intercambio universalmente accesible.</h6>

@@ -14,7 +14,7 @@ Before you can use Trustlines for payments, you first need to create some trustl
 Traditional apps for bill splitting usually encourage quick settlement, often compelling users to connect a bank account or create an account with the service provider. These apps allow users to accumulate debt with friends, but they assume users will settle these debts directly via cash or bank transfer. They do not provide a general accounting system in which users can instead _take advantage of [credit clearing](https://en.wikipedia.org/wiki/Credit_clearing) within the complete network of users_, [without necessarily settling in cash](https://youtu.be/m8N3hLKDvcY?t=113).
 
 <div class="captioned_image">
-<center><a href=" ../../../assets/images/bill_splitting/bill_splitting_credit clearing.png"><img class="tc_img" src=" ../../../assets/images/bill_splitting/bill_splitting_credit clearing.png"></a></center>
+<center><a href="../../../../assets/images/bill_splitting/bill_splitting_credit clearing.png"><img class="tc_img" src="../../../../assets/images/bill_splitting/bill_splitting_credit clearing.png"></a></center>
 </div>
 
 As money circulates in an economy, most debts should naturally cancel out over time. This is why it makes sense to use an accounting system like Trustlines for tracking debts, without the need for immediate settlement. An accounting system that clears credit automatically will reduce the frequency of needing to settle, and can even make settling wholly unnecessary. Furthermore, since Trustlines is highly secure, it does not require any intermediaries (like banks). Users can trust the ledger to keep good records, and do not need to connect an external bank account since no "real money" is transferred until users decide to settle.
@@ -34,9 +34,9 @@ To record these promises, she shares an electronic payment request for ten dolla
 Soon after she sends these requests, each of her roommates receives a notification on their mobile phone. They each fulfill Nica's payment request by sending credit for ten dollars, using Trustlines. None of them have to handle any cash during this process. If Nica checks her balances, she'll notice that her balance with each roommate is $10. (If Mallory or Janine check their balances, they will each see it is -$10.)
 
 <div class="captioned_image">
-<center><a href=" ../../../assets/images/bill_splitting/bill_splitting01.png"><img class="tc_img" src=" ../../../assets/images/bill_splitting/bill_splitting01.png"></a></center>
+<center><a href="../../../../assets/images/bill_splitting/bill_splitting01.png"><img class="tc_img" src="../../../../assets/images/bill_splitting/bill_splitting01.png"></a></center>
 
-<center><a class="card_img" href=" ../../../assets/images/bill_splitting/bill_splitting01_Tally_Nica01.png"><img class="tc_img" src=" ../../../assets/images/bill_splitting/bill_splitting01_Tally_Nica01.png"></a><a class="card_img" href=" ../../../assets/images/bill_splitting/bill_splitting01_Tally_Nica02.png"><img class="tc_img" src=" ../../../assets/images/bill_splitting/bill_splitting01_Tally_Nica02.png"></a></center>
+<center><a class="card_img" href="../../../../assets/images/bill_splitting/bill_splitting01_Tally_Nica01.png"><img class="tc_img" src="../../../../assets/images/bill_splitting/bill_splitting01_Tally_Nica01.png"></a><a class="card_img" href="../../../../assets/images/bill_splitting/bill_splitting01_Tally_Nica02.png"><img class="tc_img" src="../../../../assets/images/bill_splitting/bill_splitting01_Tally_Nica02.png"></a></center>
 </div>
 
 ## Split a meal with trusted friends
@@ -50,9 +50,9 @@ To keep track of these promises, Mallory creates a payment request for ten dolla
 Remember that Mallory already owes Nica $10 from splitting the groceries. When Nica sends $10 in credit to Mallory, this debt is simply canceled out. If Mallory checks her balance with Nica after the transaction, she will notice that it has returned to zero.
 
 <div class="captioned_image">
-<center><a href=" ../../../assets/images/bill_splitting/bill_splitting02.png"><img class="tc_img" src=" ../../../assets/images/bill_splitting/bill_splitting02.png"></a></center>
+<center><a href="../../../../assets/images/bill_splitting/bill_splitting02.png"><img class="tc_img" src="../../../../assets/images/bill_splitting/bill_splitting02.png"></a></center>
 
-<center><a class="card_img" href=" ../../../assets/images/bill_splitting/bill_splitting02_Tally_Nica01.png"><img class="tc_img" src=" ../../../assets/images/bill_splitting/bill_splitting02_Tally_Nica01.png"></a></center>
+<center><a class="card_img" href="../../../../assets/images/bill_splitting/bill_splitting02_Tally_Nica01.png"><img class="tc_img" src="../../../../assets/images/bill_splitting/bill_splitting02_Tally_Nica01.png"></a></center>
 </div>
 
 ## Split a meal with people you don't know well
@@ -68,9 +68,9 @@ If Phil checks his balances after the transaction, he'll notice that he is now o
 Also, remember that Phil previously owed Mallory $10 from dinner. When he checks his balance with Mallory, he notices that it has returned to zero. This is because Nica rippled a payment of $10 through Mallory, canceling out this debt. (The rippling happened automatically, without Mallory needing to take action. If Mallory decided to check her balances now, she would notice that Nica now owes her $10.)
 
 <div class="captioned_image">
-<center><a href=" ../../../assets/images/bill_splitting/bill_splitting03.png"><img class="tc_img" src=" ../../../assets/images/bill_splitting/bill_splitting03.png"></a></center>
+<center><a href="../../../../assets/images/bill_splitting/bill_splitting03.png"><img class="tc_img" src="../../../../assets/images/bill_splitting/bill_splitting03.png"></a></center>
 
-<center><a class="card_img" href=" ../../../assets/images/bill_splitting/bill_splitting03_Tally_Phil01.png"><img class="tc_img" src=" ../../../assets/images/bill_splitting/bill_splitting03_Tally_Phil01.png"></a></center>
+<center><a class="card_img" href="../../../../assets/images/bill_splitting/bill_splitting03_Tally_Phil01.png"><img class="tc_img" src="../../../../assets/images/bill_splitting/bill_splitting03_Tally_Phil01.png"></a></center>
 </div>
 
 ## People powered money

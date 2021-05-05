@@ -87,6 +87,7 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.tabbed
   - meta
+  - lightgallery
   - toc:
       permalink: true
       toc_depth: 3
@@ -141,6 +142,7 @@ nav:
     - FAQ: resources/FAQ.md
   - Community:
     - Glossary: resources/glossary.md
+    - Code of Conduct: docs/resources/code_of_conduct.md
     - Presentations: resources/presentations/presentation_slides.md
   - Legal:
     - Trustlines Trademark Guidelines: foundation/trademarks.md
