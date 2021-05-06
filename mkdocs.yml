@@ -6,12 +6,11 @@ theme:
   name: material
   logo: assets/images/brand/General/SVG/trustlines-mark-logo-blue.svg
   favicon: assets/images/favicon.png
-  custom_dir: theme
+  custom_dir: 'theme'
   features:
     - navigation.instant
-    - navigation.tabs
     - navigation.top
-    - navigation.tracking
+    - navigation.sections
   palette:
     # Light mode
     - media: "(prefers-color-scheme: tl-light)"
@@ -35,10 +34,10 @@ copyright: Copyright &copy 2020-2021 Trustlines Foundation
 
 
 extra_css:
-  - ../assets/css/styles.css
+  - assets/css/styles.css
 
 extra_javascript:
-  - ../assets/js/stats.js
+  - assets/js/stats.js
 
 extra:
   social:

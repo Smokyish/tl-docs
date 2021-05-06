@@ -5,12 +5,12 @@ image: https://docs.trustlines.network/assets/images/blog_headers/Time_credits.p
 
 The following user stories are intended to illustrate possible ways to use Trustlines in a time credits system. This document is not comprehensive. It is meant to guide and inspire.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/overview.png"><img class="tc_img" src="../../../../assets/images/time_credits/overview.png"></a></center>
+
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/overview.png"><img class="tc_img" src="../../../../assets/images/time_credits/overview.png"></a>
 
 <section>
 This diagram shows how different entities using time credits are naturally interconnected through Trustlines. A pink line represents a trustline between two individuals. A purple line represents a trustline between two organization accounts. Boxes represent communities in which each member has a trustline with the organization account. Characters with a round border are managers of an organization account. Anyone can ripple a transaction to anyone else in the network, as long as each connecting trustline has enough capacity.</section>
-</div>
+</div></center>
 
 ## 1. Decentralized Timebank
 
@@ -25,21 +25,19 @@ Several people in Berlin become interested in the idea of timebanking and want t
 
 Andy and Sam are neighbors. They open a trustline with each other because Sam has children, and Andy babysits once a week. Also, Sam has a car, and Andy sometimes needs a ride. They transact with each other often, so they set a mutual credit limit of ten. Even though it's just the two of them, being able to track these exchanges using time credits has made the value of their services more visible, and mutually enriched their lives.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S01A.png"><img class="tc_img" src="../../../../assets/images/time_credits/S01A.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S01A.png"><img class="tc_img" src="../../../../assets/images/time_credits/S01A.png"></a>
 
 <section>
 Andy and Sam have a trustline. Andy pays Sam for giving him a ride. Sam pays Andy for babysitting.</section>
-</div>
+</div></center>
 
 But it's not just Andy and Sam. Dana, a gardener, is a good friend of Andy's. They decide to open a trustline with a mutual credit limit of five. Even though Andy and Dana may not directly have skills to offer each other right now, they will each benefit from their trustline by being better connected to the rest of the network. For example, Dana offers gardening classes for children, and Sam's children want to attend.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S01B.png"><img class="tc_img" src="../../../../assets/images/time_credits/S01B.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S01B.png"><img class="tc_img" src="../../../../assets/images/time_credits/S01B.png"></a>
 
 <section>
 The pink lines represent trustlines. Sam pays Dana for gardening classes. Andy can pay for services from one of Dana's friends, and receives payments for babysitting.</section>
-</div>
+</div></center>
 
 Similarly, Andy is a babysitter and would like Dana's connections to be able to use his babysitting skills. In return, Andy can benefit from services provided by Dana's connections.
 
@@ -58,23 +56,21 @@ Beth applies to join the timebank. Dana conducts an interview, in which she help
 
 There are fifty members of the timebank, including Dana. Beth can now transact with all fifty members, by rippling payments through the organization account. But Beth's overall balance with the timebank cannot go higher than 25 credits, and cannot go lower than -25 credits either. Beth offers to help Dana with her website, and enrolls her children in Dana's gardening class. Beth and Dana can pay each other time credits by rippling through the Berlin Timebank.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S02A.png"><img class="tc_img" src="../../../../assets/images/time_credits/S02A.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S02A.png"><img class="tc_img" src="../../../../assets/images/time_credits/S02A.png"></a>
 
 <section>
 Dana is manager of Berlin Timebank. Both Dana and Beth have trustlines with Berlin Timebank. Beth pays Dana for gardening classes. Dana pays Beth for website help. Both payments ripple through the Berlin Timebank account.
 </section>
-</div>
+</div></center>
 
 Andy is a babysitter and wants to get paid for this service in time credits. But Andy is new to the neighborhood and does not feel comfortable applying for membership with a big neighborhood timebank. Luckily, Andy and Dana are good friends and share a trustline with a mutual credit limit of five. This connection enables Beth, who needs babysitting, to send a payment to Andy. Beth's payment ripples first through the Berlin Timebank, then through Dana, before ending up with Andy.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S02B.png"><img class="tc_img" src="../../../../assets/images/time_credits/S02B.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S02B.png"><img class="tc_img" src="../../../../assets/images/time_credits/S02B.png"></a>
 
 <section>
 Dana and Andy have a trustline. Both Dana and Beth have trustlines with Berlin Timebank. Beth pays Andy for babysitting. The payment ripples through the Berlin Timebank account and then through Dana.
 </section>
-</div>
+</div></center>
 
 ## 3. Volunteer Groups
 
@@ -87,13 +83,12 @@ Time credits can also be used for more specific purposes. For example, the manag
 
 Sam, a food delivery volunteer, opens a trustline with Berlin Foodsharing, managed by a chef, Emma. As a good rule of thumb, Sam should set the credit limit to be the maximum number of hours they expect to contribute over a set period of time. Sam expects to contribute ten hours per month, so they give Berlin Foodsharing a credit limit of ten. The other credit limit is zero for now. Emma can now pay Sam in time credits for food deliveries, using this trustline.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S03.png"><img class="tc_img" src="../../../../assets/images/time_credits/S03.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S03.png"><img class="tc_img" src="../../../../assets/images/time_credits/S03.png"></a>
 
 <section>
 Emma is the manager of Berlin Foodsharing. Sam has a trustline with Berlin Foodsharing. Emma uses the Berlin Foodsharing account to pay Sam for volunteering.
 </section>
-</div>
+</div></center>
 
 Sam begins accumulating time credits. Every month, Sam earns ten credits and then spends ten credits with connected people and organizations. For an explanation of spending, see [Scenarios 5 to 8](#5-partnerships-between-businesses-and-community-groups-1).
 
@@ -114,13 +109,12 @@ In a more advanced scenario, the manager of a community group could enable recip
 
 Berlin Foodsharing opens a trustline with each service recipient that chooses to participate. Fred is a senior citizen with reduced mobility. He applies to be a recipient of Berlin Foodsharing. Emma arranges a visit to meet Fred and assesses a need for weekly meal deliveries. So, Emma has Berlin Foodsharing give Fred a monthly credit limit of four. This is enough to pay for deliveries four times each month. The other credit limit is zero for now. This trustline enables Fred to directly pay a time credit to Sam every week, by rippling through Berlin Foodsharing.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S04.png"><img class="tc_img" src="../../../../assets/images/time_credits/S04.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S04.png"><img class="tc_img" src="../../../../assets/images/time_credits/S04.png"></a>
 
 <section>
 Emma is the manager of Berlin Foodsharing. Sam and Fred each have a trustline with Berlin Foodsharing. Fred pays Sam for food deliveries. The payment ripples through the Berlin Foodsharing account.
 </section>
-</div>
+</div></center>
 
 At the end of the month, Fred has a balance of negative four. To make sure Fred can keep paying next month, Emma keeps track of Fred's balance. At the end of the month, Berlin Foodsharing gifts four credits to Fred, which resets his balance to zero. (Gifting is the practice of giving something voluntarily without payment in return.) This ensures that Fred can pay for next month's deliveries.
 
@@ -153,13 +147,12 @@ The Berlin Timebank is known in the region as a network of reliable people with 
 
 Gigi's Theatre should open a trustline with the Berlin Timebank. Gigi gives a credit limit of 25, and the other credit limit is zero for now. Beth, who has earned time credits through the timebank, will then be able to ripple payments through the timebank to pay for theater tickets. Anyone sharing a trustline with Beth will be able to do this as well.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S05-1.png"><img class="tc_img" src="../../../../assets/images/time_credits/S05-1.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S05-1.png"><img class="tc_img" src="../../../../assets/images/time_credits/S05-1.png"></a>
 
 <section>
 Dana is the manager of Berlin Timebank. Dana and Gigi open a trustline between Berlin Timebank and the Theatre. Beth has a trustline with the Berlin Timebank. Beth pays Gigi's Theatre for tickets to a show. The payment ripples through the Berlin Timebank account.
 </section>
-</div>
+</div></center>
 
 Afterward, Gigi's Theatre will end up being "owed" a number of time credits. Gigi can spend these time credits back into the community. For example, she can use them to pay theater volunteers in the future.
 
@@ -174,13 +167,12 @@ Berlin Foodsharing is highly regarded in the community and has been featured in 
 
 Berlin Foodsharing opens a trustline with Heidi's Café. Berlin Foodsharing gives a credit limit of 50, and the other credit limit is zero for now. Heidi can now immediately gift 50 time credits to Berlin Foodsharing, using this trustline. Sam, a volunteer who has earned time credits from Berlin Foodsharing, will then be able to ripple payments through Berlin Foodsharing to pay at Heidi's Café. Anyone sharing a trustline with Sam will also be able to use this discount unless Heidi decides to limit the reward to volunteers (in that case, the café must manually request proof of membership with Berlin Foodsharing before accepting the payment).
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S05-2.png"><img class="tc_img" src="../../../../assets/images/time_credits/S05-2.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S05-2.png"><img class="tc_img" src="../../../../assets/images/time_credits/S05-2.png"></a>
 
 <section>
 Emma is the manager of Berlin Foodsharing. Emma and Heidi open a trustline between Berlin Foodsharing and the Café. Sam has a trustline with Berlin Foodsharing. Sam pays for coffee at Heidi's Café. The payment ripples through the Berlin Foodsharing account.
 </section>
-</div>
+</div></center>
 
 * **Case A**: Each month, 50 time credits are redeemed at the cafe. Heidi can choose to replenish it by gifting further time credits at the end of each month.
 * **Case B**: Perhaps Heidi needs some help supporting the influx of new customers. Berlin Foodsharing can allow Heidi's Café to use the trustline to access their volunteer base. Suppose volunteers from Berlin Foodsharing have already redeemed a total of 50 credits with the cafe. Heidi can offer to pay five credits out of this balance, to Sam, who agrees to help out for five hours each month. These credits are rippled through Berlin Foodsharing.
@@ -199,13 +191,12 @@ As described in the Decentralized Timebank ([Scenario 1](#1-decentralized-timeba
 
 Fred has rippled payments in the past to Sam, through Berlin Foodsharing. Now, Sam can use these earned time credits to ripple a payment in the other direction, back to Fred.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S06-1.png"><img class="tc_img" src="../../../../assets/images/time_credits/S06-1.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S06-1.png"><img class="tc_img" src="../../../../assets/images/time_credits/S06-1.png"></a>
 
 <section>
 Sam and Fred each have a trustline with Berlin Foodsharing. Sam pays Fred for tutoring Sam's children. The payment ripples through the Berlin Foodsharing account.
 </section>
-</div>
+</div></center>
 
 ### 6.2. Creating new friendships because of community groups
 
@@ -216,13 +207,12 @@ Sam and Fred each have a trustline with Berlin Foodsharing. Sam pays Fred for tu
 
 Fred can open a trustline directly with Sam, and they agree to set a mutual credit limit of ten---higher than what Berlin Foodsharing allows. Then Sam can use this trustline to pay Fred for tutoring services for Sam's children, and Fred can use the trustline to pay for meal deliveries. They no longer need to ripple payments through Berlin Foodsharing.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S06-2.png"><img class="tc_img" src="../../../../assets/images/time_credits/S06-2.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S06-2.png"><img class="tc_img" src="../../../../assets/images/time_credits/S06-2.png"></a>
 
 <section>
 Sam and Fred open a trustline between each other. Fred pays Sam for food deliveries. Sam pays Fred for tutoring Sam's children.
 </section>
-</div>
+</div></center>
 
 ### 6.3. Rippling through friends to shop at local businesses
 
@@ -233,13 +223,12 @@ Sam and Fred open a trustline between each other. Fred pays Sam for food deliver
 
 Andy already has a trustline with Sam. Since Andy is receiving time credits from Sam, who is a member of Berlin Foodsharing, Andy could eventually ripple a payment through Sam to pay for a discount at Heidi's Café.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S06-3.png"><img class="tc_img" src="../../../../assets/images/time_credits/S06-3.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S06-3.png"><img class="tc_img" src="../../../../assets/images/time_credits/S06-3.png"></a>
 
 <section>
 Andy and Sam have a trustline. Sam has paid Andy for babysitting. Berlin Foodsharing and Heidi's Café have a trustline. Andy pays for hot chocolate at Heidi's Café. The payment ripples through Sam, then through the Berlin Foodsharing account.
 </section>
-</div>
+</div></center>
 
 ## 7. Community Partnerships: The Network Effect
 
@@ -254,13 +243,12 @@ The Berlin Timebank can open a trustline with the Paris Timebank. Dana and Ivan 
 
 This connection enables members of both programs to spend and earn time credits in each other's communities, by rippling payments over the trustline. For example, this enables Côme, a member of the Paris Timebank, to use time credits while visiting Berlin, in order to pay for a theater ticket.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S07.png"><img class="tc_img" src="../../../../assets/images/time_credits/S07.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S07.png"><img class="tc_img" src="../../../../assets/images/time_credits/S07.png"></a>
 
 <section>
 Dana is the manager of the Berlin Timebank. Ivan is the manager of the Paris Timebank. They open a trustline between the two timebanks. Côme pays for theatre tickets at Gigi's Theatre. The payment ripples through the Paris Timebank account and then the Berlin Timebank account. This is possible because Côme has a trustline with the Paris Timebank, and there is a trustline connecting the Berlin Timebank to Gigi's Theatre.
 </section>
-</div>
+</div></center>
 
 ## 8. Partner Businesses: Supporting Networks of Communities
 
@@ -277,12 +265,11 @@ The European Timebank Network gives a credit limit of 20 to Kamal, and the other
 
 The European Timebank Network has trustlines with many timebanks across the continent, each of which has a mutual credit limit of 25. Because of this, connected timebank members like Beth can redeem their time credits for crafts by rippling a payment to Kamal's Craft Shop. In this scenario, Beth's payment would ripple first through the Berlin Timebank, and then through the European Timebank Network, until finally it is paid to Kamal.
 
-<div class="captioned_image">
-<center><a href="../../../../assets/images/time_credits/S08.png"><img class="tc_img" src="../../../../assets/images/time_credits/S08.png"></a></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/time_credits/S08.png"><img class="tc_img" src="../../../../assets/images/time_credits/S08.png"></a>
 
 <section>
 Josh is the manager of the European Timebank Network. He opens a trustline with Kamal's Craft Shop. Beth has a trustline with the Berlin Timebank. Beth pays for handmade crafts at Kamal's Craft Shop. The payment ripples through the Berlin Timebank and then the European Timebank Network.
 </section>
-</div>
+</div></center>
 
 After accumulating credits over this trustline, Kamal can choose to pay some credits back into the community. Since Kamal lives in London, he checks the directory of the London Timebank to see what services are available. He will be able to ripple a payment through the European Timebank Network, and then through the London Timebank, before it is received by someone in his community.

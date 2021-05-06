@@ -62,7 +62,7 @@ If you want to use the Trustlines trademarks, you don't require Trustlines Found
 
 To get a quick idea about whether or not your intended use of the trademark is allowed without asking the Trustlines Foundation first, you can go through the following flow chart. Please keep in mind that this is just a quick check, and you should always refer to the full rules or ask us when you're in doubt about your use case scenario.
 
-<a href="../../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg"><img src="../../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg" class="trademark_guidelines_img" /></a>
+<div class="lightgallery"><a href="../../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg"><img src="../../../assets/images/Flowchart_Trademark_Guidelines_v10.jpg" class="trademark_guidelines_img" /></a></div>
 
 ### 2.3 Examples for rules #1 and #2
 

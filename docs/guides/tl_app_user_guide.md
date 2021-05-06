@@ -11,7 +11,7 @@ image: https://docs.trustlines.network/assets/images/app_user_guide/tl_app_heade
 
 <center><div><a href="https://trustlines.app/" target="_blank"><img class="app_guide_headerimg" src="../../../assets/images/app_user_guide/phone.png"></a>
 
-<p class="app_guide_dl">You can get the Trustlines App for Android and iOS from <a data-sub-html="Description" href="https://trustlines.app/" target="_blank">https://trustlines.app</a></p></div></center>
+<p class="app_guide_dl">You can get the Trustlines App for Android and iOS from <a data-sub-html="Trustlines App" href="https://trustlines.app/" target="_blank">https://trustlines.app</a></p></div></center>
 
 !!! note "Note to iOS users upgrading from an earlier version"
 
