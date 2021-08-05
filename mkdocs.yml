@@ -4,7 +4,7 @@ repo_url: https://github.com/trustlines-protocol/tl-docs
 site_description: Docs for the Trustlines Network
 theme:
   name: material
-  logo: assets/images/brand/General/SVG/trustlines-mark-logo-blue.svg
+  logo: assets/images/brand/General/SVG/trustlines-mark-logo-white.svg
   favicon: assets/images/favicon.png
   custom_dir: 'theme'
   features:
@@ -16,14 +16,14 @@ theme:
     - media: "(prefers-color-scheme: tl-light)"
       scheme: tl-light
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Light
 
     # Dark mode
     - media: "(prefers-color-scheme: tl-dark)"
       scheme: tl-dark
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Dark
   icon:
     repo: fontawesome/brands/github
@@ -73,6 +73,7 @@ extra:
 
 markdown_extensions:
   - abbr
+  - attr_list
   - pymdownx.snippets
   - admonition
   - pymdownx.details
@@ -85,8 +86,8 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.smartsymbols
   - pymdownx.tabbed
-  - meta
   - lightgallery
+  - meta
   - toc:
       permalink: true
       toc_depth: 3
@@ -108,16 +109,12 @@ plugins:
         en: "English"
       default_language: 'en'
       no_translation:
-        en: "This page isn't translated to English."
-        es: "Esta página no está traducida al español."
-      translate_nav:
-        en:
-          Guides: "Guides"
-        es:
-          Guides: "Guías"
+        en: ""
+        es: ""
 
 nav:
-  - Trustlines Docs: index.md
+  - Trustlines Docs:
+    - Welcome: index.md
   - Whitepaper:
     - Abstract: resources/wp_content/abstract.md
     - How Trustlines works: resources/wp_content/how_trustlines_works.md

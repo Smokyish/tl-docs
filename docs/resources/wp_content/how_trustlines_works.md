@@ -25,7 +25,7 @@ IOUs can also be referred to as self-issued debt.  They can be used for payment 
 
 A trustline is a bilateral credit relationship between two partners. Every trustline consists of two corresponding credit lines (each partner giving one to the other partner) as well as a balance that indicates if and how much credit one partner has drawn from the other.
 
-<center><div class="captioned_image_wp_small lightgallery"><a data-sub-html="" href="../../../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"><img class="tc_img" src="../../../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"></a></div></center>
+<center><div class="captioned_image_wp_small lightgallery"><a data-sub-html="" href="../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works01.png"></a></div></center>
 
 A trustline can represent different kinds of credit relationships, like a contract with or without collateral that is legally binding, or simply an agreement between friends. This makes a trustline a formal representation of a real world agreement between two entities that are willing to lend value to each other. This trustline enables Alice to make credit-based payments to Bob, and vice versa.
 
@@ -33,7 +33,7 @@ A trustline can represent different kinds of credit relationships, like a contra
 
 A credit line is a preset borrowing limit (credit limit) that can be used at any time and represents the highest amount that can be borrowed.
 
-<center><div class="captioned_image_wp_small lightgallery"><a data-sub-html="" href="../../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"></a></div></center>
+<center><div class="captioned_image_wp_small lightgallery"><a data-sub-html="" href="../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works02.png"></a></div></center>
 
 In this example, Alice and Bob each give a credit line with a credit limit of ten. Ten is the maximum amount each of them would be able to borrow from the other.
 
@@ -43,7 +43,7 @@ Even when two users do not have a trustline, they can still transfer value, as l
 
 For example, Alice wants to pay Charlie using credit. Because Charlie does not share a trustline with Alice, she cannot directly pay him with credit. Luckily, Bob is a mutual friend! This means Alice can pay Charlie by "rippling" credit through Bob.
 
-<center><div class="captioned_image_wp_small lightgallery"><a data-sub-html="" href="../../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"></a></div></center>
+<center><div class="captioned_image_wp_small lightgallery"><a data-sub-html="" href="../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works03.png"></a></div></center>
 
 Before the transfer, Bob's balance with Alice was zero. Bob's balance with Charlie was also zero. During the transfer, Bob's balance with Alice increased to "plus five," while his balance with Charlie decreased to "minus five." However, Bob's net balance remains unchanged at zero (-5+5=0). Because Bob is only an intermediary, this transaction happens automatically without Bob needing to take any action.
 
@@ -51,7 +51,7 @@ Before the transfer, Bob's balance with Alice was zero. Bob's balance with Charl
 
 People that are not connected through a trustline can make multi-hop payments via any path of direct connected trustlines. 
 
-<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"></a></div></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works04.png"></a></div></center>
 
 Leveraging the network effect, users only need a small amount of trustlines to transact with a large number of people. This is clearer in the context of the [six degrees of separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation) concept.
 
@@ -62,7 +62,7 @@ The greater effect is that the rippled credit can be used as a medium of exchang
 
 So, why not create fake accounts with "fake credit" to use in the network? This can't actually do much damage because the system relies on individual, trusted relationships. This is important to consider for designing scalable systems.
 
-<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"><img class="tc_img" src="../../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"></a></div></center>
+<center><div class="captioned_image lightgallery"><a data-sub-html="" href="../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"><img class="tc_img" src="../../../assets/images/wp_content/how_tl_works/how_tl_works05.png"></a></div></center>
 
 For example, Eve created duplicate accounts to give herself millions in fake credit. But Eve's spending limit with the network is determined by the credit limit her friends have given her. In this example, Alice has given Eve a credit limit of ten. Because she knows Eve in real life and opening a Trustline needs the approval of both parties involved, Alice isn't going to create additional trustlines with the duplicate Eve accounts. Nor is she going to accept millions in credit from the real Eve.
 

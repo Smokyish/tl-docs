@@ -9,9 +9,17 @@
 
 ### Instructions
 
+Install [MkDocs](https://www.mkdocs.org/)
+
 `pip install mkdocs`
 
+Install the [MkDocs Material theme](https://squidfunk.github.io/mkdocs-material/)
+
 `pip install mkdocs-material`
+
+Install the [Lightgallery](https://sachinchoolur.github.io/lightgallery.js/) component
+
+`pip install lightgallery`
 
 ## Running locally
 
