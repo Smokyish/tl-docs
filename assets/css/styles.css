@@ -1055,7 +1055,6 @@ p a em {
 }
 
 .index_card_text {
-  margin: auto;
   display: table;
   color: var(--black);
 }
