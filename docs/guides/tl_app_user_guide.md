@@ -91,7 +91,7 @@ Review the details of the trustline you wish to request before sending, and that
 
 ## Securing access to your account
 
-!!! warning "&nbsp;"
+!!! warning "Notice"
     **This is a crucial step for all users of the Trustlines App!**
 !!! note
     This is not the same as [backing up your account data](#backing-up-and-restoring-your-account-data). This will secure access to the account, but you should also make sure that the account data is backed up.
