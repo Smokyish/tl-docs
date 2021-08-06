@@ -3,8 +3,7 @@ title: User guide for Trustlines App
 subtitle: Last updated December 2020
 image: https://docs.trustlines.network/assets/images/app_user_guide/tl_app_header.png
 ---
-
-[:es:](tl_app_user_guide.es.md)
+[:es: _Español_](tl_app_user_guide.es.md)
 
 !!! note
     The images in this guide are for educational purposes and might not represent all the latest changes in the app

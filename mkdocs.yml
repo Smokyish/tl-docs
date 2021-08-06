@@ -119,18 +119,18 @@ nav:
     - Abstract: resources/wp_content/abstract.md
     - How Trustlines works: resources/wp_content/how_trustlines_works.md
     - Use in the real world: resources/wp_content/use_in_the_real_world.md
-  - Guides:
-    - Trustlines App Guide: guides/tl_app_user_guide.md
-    - How to claim TLN from the Merkle Drop: guides/how_to_claim_tln.md
-    - How to withdraw your validator deposit: guides/how_to_withdraw_validator_deposit.md
-    - Converting TLN to TLC: guides/converting_tln_to_tlc.md
-    - Communications Guide: resources/community_communications_guide.md
   - Use Cases:
     - Time Credits / Time Banking:
       - Time Credits on Trustlines: use_cases/time_credits/time_credits_on_trustlines.md
       - Time Credits - User Stories: use_cases/time_credits/time_credits_user_stories.md
     - Bill splitting:
       - Bill splitting on Trustlines: use_cases/bill_splitting/bill_splitting_on_trustlines.md
+  - Guides:
+    - Trustlines App User Guide: guides/tl_app_user_guide.md
+    - How to claim TLN from the Merkle Drop: guides/how_to_claim_tln.md
+    - How to withdraw your validator deposit: guides/how_to_withdraw_validator_deposit.md
+    - Converting TLN to TLC: guides/converting_tln_to_tlc.md
+    - Communications Guide: resources/community_communications_guide.md
   - Brand:
     - Brand Guidelines: brand/brand_guidelines.md
     - Brand Resources: brand/brand_resources.md

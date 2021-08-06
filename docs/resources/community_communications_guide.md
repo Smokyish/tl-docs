@@ -2,6 +2,8 @@
 title: Community Communications Guide
 ---
 
+# Community Communications Guide
+
 ## 1. General information
 
 ### Background

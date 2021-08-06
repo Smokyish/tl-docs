@@ -1,10 +1,9 @@
 # Welcome to the Trustlines Docs
 
-[:es:](index.es.md)
+[:es: _Español_](index.es.md)
 
 <div class="hero">
-<h2>Building a better financial system</h2>
-<h6>The Trustlines Network is the first project to create a universally accessible medium of exchange.</h6>
+<h2></h2>
 </div>
 
 ## What is the Trustlines Network?

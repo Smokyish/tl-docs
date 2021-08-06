@@ -4,7 +4,7 @@ subtitle: Última actualización en diciembre de 2020
 image: https://docs.trustlines.network/assets/images/app_user_guide/tl_app_header.png
 ---
 
-[:gb:](tl_app_user_guide.md)
+[:gb: _English_](tl_app_user_guide.md)
 
 !!! note "Nota"
     Las imágenes de esta guía son para fines educativos y es posible que no muestren los últimos cambios en la aplicación.
