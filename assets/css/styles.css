@@ -67,7 +67,6 @@
   font-size: 26px;
   line-height: 1.2;
   letter-spacing: 0px;
-  margin-top: 1.8em !important;
 }
 
 .md-typeset h4 {
@@ -92,6 +91,10 @@
   font-weight: 600;
   font-size: .8em;
   line-height: 1.2;
+}
+
+.md-typeset h2+h3 {
+  margin-top: 1.2em !important;
 }
 
 .md-grid {
@@ -232,7 +235,7 @@
 }
 
 [data-md-color-scheme="tl-dark"] .md-typeset .admonition {
-  background-color: var(--dark-blue);
+  background-color: var(--dark-grey);
   color: var(--light-grey);
 }
 
@@ -706,6 +709,11 @@ html .md-typeset .admonition {
 
 code, kbd, pre {
   font-family: var(--md-text-font-family);
+  font-size: 15px !important;
+}
+
+.md-typeset pre {
+  font-weight: 600;
 }
 
 .md-header__topic {
@@ -956,4 +964,14 @@ html .md-typeset .admonition {
   line-height: 1.5;
   letter-spacing: 0px;
   font-weight: 400;
+}
+
+.md-typeset .emojione, .md-typeset .gemoji, .md-typeset .twemoji {
+  height: 1.75em;
+}
+
+p a em {
+  display: inline-block;
+  vertical-align: text-top;
+  padding: .125em 0 0 .2em;
 }
