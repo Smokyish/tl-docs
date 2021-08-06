@@ -470,10 +470,11 @@ p.presentation_images {
 
 .md-nav__link {
   margin-left: .4em;
+  margin-top: .675em;
 }
 
 div.hero {
-  background: url("/assets/images/trustlines_network.avif");
+  background: url("assets/images/trustlines_network.avif");
   background-repeat: no-repeat;
   background-size: cover;
   width: 80%;
@@ -685,12 +686,13 @@ div.hero h2 {
 }
 
 .md-nav--secondary .md-nav__link {
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.3;
+  letter-spacing: 0.4px;
 }
 
 .admonition ul li, p.admonition-title {
-  font-size: 16px;
+  font-size: 17px;
 }
 
 html .md-typeset .admonition {
@@ -739,7 +741,7 @@ input.md-search__input {
 .md-footer-copyright {
   font-size: 10px;
   margin: auto .95rem;
-  letter-spacing: 0.2px;
+  letter-spacing: 0.4px;
   line-height: 1.6;
 }
 
@@ -867,7 +869,7 @@ input.md-search__input {
 
   .md-footer__button {
     margin: .1rem;
-    padding: .1rem;
+    padding: 1.55rem 0 0 0;
   }
 
   .md-header__title[data-md-state=active] .md-header__topic+.md-header__topic .md-ellipsis {
@@ -878,11 +880,15 @@ input.md-search__input {
   .trademark_guidelines_img {
     height: 35rem !important;
   }
+
+  .md-typeset .headerlink {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 59.9375em) {
   .md-nav__source {
-    background-color: var(--orange-secondary);
+  background-color: var(--orange);
   }
 
   label.md-header-nav__button.md-icon svg {
@@ -902,7 +908,20 @@ input.md-search__input {
   }
 
   .md-footer__link .md-ellipsis {
+    font-size: 19px;
+  }
+
+  .md-typeset h1 {
+    font-size: 36px;
+  }
+
+  .md-typeset h2 {
+    font-size: 28px;
+  }
+
+  .md-typeset h3 {
     font-size: 22px;
+    margin: 1.2em 0 .1em 0;
   }
 }
 
@@ -910,7 +929,7 @@ input.md-search__input {
   [data-md-color-scheme="tl-light"] .md-nav--primary .md-nav__title {
     color: var(--md-typeset-color);
     font-size: .8rem;
-    background-color: var(--orange-secondary);
+    background-color: var(--orange);
   }
 
   label.md-header-nav__button.md-icon svg {
@@ -947,6 +966,10 @@ input.md-search__input {
   }
 }
 
+.md-typeset .headerlink {
+  display: inline-block;
+}
+
 .md-nav__item--section>.md-nav {
   display: block;
 }
@@ -974,4 +997,8 @@ p a em {
   display: inline-block;
   vertical-align: text-top;
   padding: .125em 0 0 .2em;
+}
+
+.md-nav--secondary .md-nav__title[for=__toc] {
+    font-size: 17px;
 }
