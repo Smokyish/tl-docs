@@ -691,7 +691,7 @@ div.hero h2 {
 }
 
 html .md-typeset .admonition {
-  font-size: 16px;
+  font-size: 15px;
 }
 
 .md-nav__item--nested>.md-nav__link {
@@ -949,4 +949,11 @@ input.md-search__input {
 
 .md-nav__toggle:checked~.md-nav, .md-nav__toggle:indeterminate~.md-nav {
   display: block;
+}
+
+html .md-typeset .admonition {
+  font-size: 15px;
+  line-height: 1.5;
+  letter-spacing: 0px;
+  font-weight: 400;
 }
