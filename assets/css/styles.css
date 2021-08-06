@@ -474,7 +474,7 @@ p.presentation_images {
 }
 
 div.hero {
-  background: url("../docs/assets/images/trustlines_network.avif");
+  background: url("assets/images/trustlines_network.avif");
   background-repeat: no-repeat;
   background-size: cover;
   width: 80%;
