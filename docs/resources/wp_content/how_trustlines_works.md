@@ -233,21 +233,23 @@ The client library is a Javascript library that makes it easy to build applicati
 
 There are two different tokens used in connection with Trustlines:
 
-!!! info "The Trustlines Network Token (TLN)"
-    -   The Trustlines Network Token (TLN) is an ERC-20 token on the [Ethereum](https://ethereum.org/) mainchain. Since this is a popular token standard, TLN is highly versatile, easily transferable, and generally very accessible for the Ethereum community.
+#### The Trustlines Network Token (TLN)
 
-    -   TLN is currently required for staking in the validator auctions for the Trustlines Blockchain.
+  -   The Trustlines Network Token (TLN) is an ERC-20 token on the [Ethereum](https://ethereum.org/) mainchain. Since this is a popular token standard, TLN is highly versatile, easily transferable, and generally very accessible for the Ethereum community.
 
-    -   Trustlines Network Tokens (TLN) are distributed via a Merkle drop to a wide range of recipients. You can find more information about this in the [Merkle drop launch](https://trustlines.foundation/merkle-drop.html) blog post. The Trustlines Foundation will also consider other distribution models in the future.
+  -   TLN is currently required for staking in the validator auctions for the Trustlines Blockchain.
 
-    -   TLN can be converted into TLC via a bridge. No bridge exists for TLC to TLN conversion.
+  -   Trustlines Network Tokens (TLN) are distributed via a Merkle drop to a wide range of recipients. You can find more information about this in the [Merkle drop launch](https://trustlines.foundation/merkle-drop.html) blog post. The Trustlines Foundation will also consider other distribution models in the future.
 
-!!! info "The Trustlines Network Coin (TLC)"
-    -   The Trustlines Network Coin (TLC) is the native token of the Trustlines Blockchain, which means it is useful for people who are using the Trustlines Protocol in their everyday lives.
+  -   TLN can be converted into TLC via a bridge. No bridge exists for TLC to TLN conversion.
 
-    -   Any user wanting to pay their own transaction fees must obtain TLC. TLC can be purchased directly, or instead users can buy TLN and convert it to TLC.
+#### The Trustlines Network Coin (TLC)
 
-    -   Typically, it is the relay server operators that enable delegate services who use the most TLC.
+  -   The Trustlines Network Coin (TLC) is the native token of the Trustlines Blockchain, which means it is useful for people who are using the Trustlines Protocol in their everyday lives.
+
+  -   Any user wanting to pay their own transaction fees must obtain TLC. TLC can be purchased directly, or instead users can buy TLN and convert it to TLC.
+
+  -   Typically, it is the relay server operators that enable delegate services who use the most TLC.
 
 ### 5.2 Fees
 
