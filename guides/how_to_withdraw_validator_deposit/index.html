@@ -938,41 +938,25 @@
 </div>
 <h2 id="checking-that-the-locking-period-has-ended">Checking that the locking period has ended<a class="headerlink" href="#checking-that-the-locking-period-has-ended" title="Permanent link">&para;</a></h2>
 <p>To withdraw your deposit from the contract, you will need to interact with the <code>DepositLocker</code> contract. The contract address on Ethereum is <a href="https://etherscan.io/address/0xd56a61ad1b16f1f0326785902593c7adbf733e34">0xd56a61ad1b16f1f0326785902593c7adbf733e34</a>.</p>
-<div class="admonition quote">
 <p>Make sure the deposits are unlocked by checking that the <code>releaseTimestamp</code> has passed. To do this on the contract page, click on <code>contract</code>.</p>
 <p><center><div class="lightgallery"><a class="vdw_a" href="../../assets/images/validator_deposit_withdraw/validator_deposit01.png"><img class="vdw_img" src="../../assets/images/validator_deposit_withdraw/validator_deposit01.png"></a></div></center></p>
-</div>
-<div class="admonition quote">
 <p>Continue to click on <code>read contract</code>.</p>
 <p><center><div class="lightgallery"><a class="vdw_a" href="../../assets/images/validator_deposit_withdraw/validator_deposit02.png"><img class="vdw_img" src="../../assets/images/validator_deposit_withdraw/validator_deposit02.png"></a></div></center></p>
-</div>
-<div class="admonition quote">
 <p>You can find out the current <strong>Unix timestamp</strong> using a search engine of your choice.</p>
 <p><center><div class="lightgallery"><a class="vdw_a" href="../../assets/images/validator_deposit_withdraw/validator_deposit03.png"><img class="vdw_img" src="../../assets/images/validator_deposit_withdraw/validator_deposit03.png"></a></div></center></p>
-</div>
 <h2 id="verifying-that-your-address-can-withdraw-from-the-contract">Verifying that your address can withdraw from the contract<a class="headerlink" href="#verifying-that-your-address-can-withdraw-from-the-contract" title="Permanent link">&para;</a></h2>
-<div class="admonition quote">
 <p>You will need to use the same address to withdraw that you used to bid.
 To verify your address, you can use the third field, <code>canWithdraw</code>.</p>
 <p><center><div class="lightgallery"><a class="vdw_a" href="../../assets/images/validator_deposit_withdraw/validator_deposit04.png"><img class="vdw_img" src="../../assets/images/validator_deposit_withdraw/validator_deposit04.png"></a></div></center></p>
-</div>
-<div class="admonition quote">
 <p>Enter your address in the field and click <code>Query</code>. You will see <code>bool: true</code> if you are able to withdraw, or <code>bool: false</code> if not.</p>
 <p><center><div class="lightgallery"><a class="vdw_a" href="../../assets/images/validator_deposit_withdraw/validator_deposit05.png"><img class="vdw_img" src="../../assets/images/validator_deposit_withdraw/validator_deposit05.png"></a></div></center></p>
-</div>
 <h2 id="withdrawing-using-metamask">Withdrawing using MetaMask<a class="headerlink" href="#withdrawing-using-metamask" title="Permanent link">&para;</a></h2>
-<div class="admonition quote">
 <p>Once you have verified that you’re entitled to withdraw, log-in to your MetaMask account. You should make sure you have the <code>Main Ethereum Network</code> network selected.</p>
 <p><center><div class="lightgallery"><a class="vdw_a" href="../../assets/images/validator_deposit_withdraw/validator_deposit06.png"><img class="vdw_img" src="../../assets/images/validator_deposit_withdraw/validator_deposit06.png"></a></div></center></p>
-</div>
-<div class="admonition quote">
 <p>Click on Write Contract, then, <code>Connect to Web3</code>. This will allow Etherscan to connect to MetaMask.</p>
 <p><center><div class="lightgallery"><a class="vdw_a" href="../../assets/images/validator_deposit_withdraw/validator_deposit07.png"><img class="vdw_img" src="../../assets/images/validator_deposit_withdraw/validator_deposit07.png"></a></div></center></p>
-</div>
-<div class="admonition quote">
 <p>For the actual withdrawal, click on <code>Write</code> under <code>2. withdraw</code>. MetaMask will then ask you to sign a transaction. The transaction should require less than 30k gas.</p>
 <p><center><div class="lightgallery"><a class="vdw_a" href="../../assets/images/validator_deposit_withdraw/validator_deposit08.png"><img class="vdw_img" src="../../assets/images/validator_deposit_withdraw/validator_deposit08.png"></a></div></center></p>
-</div>
 <p>Once this transaction is confirmed, you should receive your deposit back.</p>
                 
                   
