@@ -21,7 +21,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
 <div class="index_cards_row">
   <div class="index_cards">
     <a href="resources/wp_content/abstract">
-      <div class="index_card_img"><img src="assets/images/trustlines_network.avif" /></div>
+      <div class="index_card_img"><img src="assets/images/card_wp.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Trustlines Network Whitepaper</p>
         <p>The whitepaper content, including <i>How Trustlines works</i> and <i>Use in the real world</i>.</p>
@@ -31,7 +31,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
 
   <div class="index_cards">
     <a href="resources/wp_content/abstract">
-      <div class="index_card_img"><img src="assets/images/trustlines_network.avif" /></div>
+      <div class="index_card_img"><img src="assets/images/card_usecases.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Use Cases</p>
         <p>Examples of use cases for the Trustlines Network. Currently showcasing <i>Time Credits / Time Banking</i> and <i>Bill splitting</i>.</p>
@@ -41,7 +41,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
 
   <div class="index_cards">
     <a href="resources/wp_content/abstract">
-      <div class="index_card_img"><img src="assets/images/trustlines_network.avif" /></div>
+      <div class="index_card_img"><img src="assets/images/card_guides.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Guides</p>
         <p>Guides for interacting with the Trustlines Network. Here you can find a <i>Trustlines App User Guide</i> among other informative pages.</p>
@@ -53,7 +53,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
 <div class="index_cards_row">
   <div class="index_cards">
     <a href="resources/wp_content/abstract">
-      <div class="index_card_img"><img src="assets/images/trustlines_network.avif" /></div>
+      <div class="index_card_img"><img src="assets/images/card_brand.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Brand</p>
         <p>Brand related content, including <i>Brand Guidelines</i> and resources.</p>
@@ -63,7 +63,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
 
   <div class="index_cards">
     <a href="resources/wp_content/abstract">
-      <div class="index_card_img"><img src="assets/images/trustlines_network.avif" /></div>
+      <div class="index_card_img"><img src="assets/images/card_faq.png" /></div>
       <div class="index_card_text">
         <p class="card_title">FAQ</p>
         <p>Frequently Asked Questions about the Trustlines Network.</p>
@@ -73,7 +73,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
 
   <div class="index_cards">
     <a href="resources/wp_content/abstract">
-      <div class="index_card_img"><img src="assets/images/trustlines_network.avif" /></div>
+      <div class="index_card_img"><img src="assets/images/card_community.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Community</p>
         <p>Items for the community, including the <i>Code of Conduct</i>, <i>Glossary</i> and <i>Presentations</i>.</p>
@@ -85,7 +85,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
 <div class="index_cards_row">
   <div class="index_cards">
     <a href="resources/wp_content/abstract">
-      <div class="index_card_img"><img src="assets/images/trustlines_network.avif" /></div>
+      <div class="index_card_img"><img src="assets/images/card_legal.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Legal</p>
         <p>Legal content, including the <i>Trademark Guidelines</i>.</p>
