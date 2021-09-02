@@ -30,7 +30,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
   </div>
 
   <div class="index_cards">
-    <a href="resources/wp_content/abstract">
+    <a href="use_cases/bill_splitting/bill_splitting_on_trustlines">
       <div class="index_card_img"><img src="assets/images/card_usecases.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Use Cases</p>
@@ -40,7 +40,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
   </div>
 
   <div class="index_cards">
-    <a href="resources/wp_content/abstract">
+    <a href="use_cases/time_credits/time_credits_on_trustlines">
       <div class="index_card_img"><img src="assets/images/card_guides.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Guides</p>
@@ -52,7 +52,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
 
 <div class="index_cards_row">
   <div class="index_cards">
-    <a href="resources/wp_content/abstract">
+    <a href="brand/brand_guidelines">
       <div class="index_card_img"><img src="assets/images/card_brand.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Brand</p>
@@ -62,7 +62,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
   </div>
 
   <div class="index_cards">
-    <a href="resources/wp_content/abstract">
+    <a href="resources/FAQ">
       <div class="index_card_img"><img src="assets/images/card_faq.png" /></div>
       <div class="index_card_text">
         <p class="card_title">FAQ</p>
@@ -72,7 +72,7 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
   </div>
 
   <div class="index_cards">
-    <a href="resources/wp_content/abstract">
+    <a href="foundation/trademarks">
       <div class="index_card_img"><img src="assets/images/card_community.png" /></div>
       <div class="index_card_text">
         <p class="card_title">Community</p>
@@ -107,6 +107,41 @@ You can use the menu to the left to navigate the Docs. Here is a brief summary o
     <p>Examples of use cases for the Trustlines Network. Currently showcasing <i>Time Credits / Time Banking</i> and <i>Bill splitting</i>.</p>
   </a>
 </div>
+
+<div class="mobile_cards admonition quote">
+  <a href="resources/wp_content/abstract">
+      <p class="card_title">Guides</p>
+      <p>Guides for interacting with the Trustlines Network. Here you can find a <i>Trustlines App User Guide</i> among other informative pages.</p>
+  </a>
+</div>
+
+  <div class="mobile_cards admonition quote">
+    <a href="resources/wp_content/abstract">
+        <p class="card_title">Brand</p>
+        <p>Brand related content, including <i>Brand Guidelines</i> and resources.</p>
+    </a>
+  </div>
+
+  <div class="mobile_cards admonition quote">
+    <a href="resources/wp_content/abstract">
+        <p class="card_title">FAQ</p>
+        <p>Frequently Asked Questions about the Trustlines Network.</p>
+    </a>
+  </div>
+
+  <div class="mobile_cards admonition quote">
+    <a href="resources/wp_content/abstract">
+        <p class="card_title">Community</p>
+        <p>Items for the community, including the <i>Code of Conduct</i>, <i>Glossary</i> and <i>Presentations</i>.</p>
+    </a>
+  </div>
+
+  <div class="mobile_cards admonition quote">
+    <a href="resources/wp_content/abstract">
+        <p class="card_title">Legal</p>
+        <p>Legal content, including the <i>Trademark Guidelines</i>.</p>
+    </a>
+  </div>
 
 ___
 

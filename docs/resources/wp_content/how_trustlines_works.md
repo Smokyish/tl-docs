@@ -70,7 +70,7 @@ The system is naturally fault-tolerant because each trustline is bilateral. In o
 
 ### 2.7 Real-world enforcement of credit claims
 
-Because [social norms affect informal enforceability](https://academic.oup.com/restud/article-abstract/59/1/63/1516727), all users do have tangible social incentives to respect their obligations---whether or not there exists an external contract or collateral. Defaulting would have a negative impact on the user's social relationship with their trustline partner. It could also affect a user's reputation with the rest of the community.
+Because [social norms affect informal enforceability](https://academic.oup.com/restud/article-abstract/59/1/63/1516727), all users do have tangible social incentives to respect their obligations--whether or not there exists an external contract or collateral. Defaulting would have a negative impact on the user's social relationship with their trustline partner. It could also affect a user's reputation with the rest of the community.
 
 In case of a user not being able to pay back the obligation, there's also always the option to forgive the debt or settle in other ways than first anticipated. Payment from the creditor to the debtor would reflect this.
 
@@ -306,3 +306,5 @@ The validator slot price is defined as the last successful bid. [This amount wil
 
 !!! info "Participation"
     To be able [to take part in the auction](https://blog.trustlines.network/the-second-validator-auction-for-the-trustlines-blockchain/), your Ethereum address must have been whitelisted by the Trustlines Foundation before the start of the auction. Every whitelisted Ethereum address can participate in the auction only once.
+
+--8<-- "includes/glossary.md"

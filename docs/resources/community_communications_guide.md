@@ -74,12 +74,12 @@ The official brand names in the Trustlines ecosystem follow a specified pattern 
 
 Examples of capitalizing brand names would be Trustlines **N**etwork, Trustlines **P**rotocol, and Trustlines **B**lockchain. So if you are generally referring to the blockchain or the associated technology, capitalization isn't used.
 
-!!! info "Links to resources"
+#### Links to resources
 
-    | | |
-    |:-:|:-:|
-    | <a class="comms_guide_res_table" href="../brand/brand_guidelines">**Brand Guidelines**</a> | <a class="comms_guide_res_table" href="presentations/presentation_slides">**Presentation Slides**</a> |
-    | <a class="comms_guide_res_table" href="../brand/brand_resources">**Brand Resources**</a> | <a class="comms_guide_res_table" href="../foundation/trademarks">**Trademark Guidelines**</a> |
+| | |
+|:-:|:-:|
+| <a class="comms_guide_res_table" href="../brand/brand_guidelines">**Brand Guidelines**</a> | <a class="comms_guide_res_table" href="presentations/presentation_slides">**Presentation Slides**</a> |
+| <a class="comms_guide_res_table" href="../brand/brand_resources">**Brand Resources**</a> | <a class="comms_guide_res_table" href="../foundation/trademarks">**Trademark Guidelines**</a> |
 
 ## 3. Arranging an event
 

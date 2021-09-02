@@ -120,11 +120,11 @@ nav:
     - How Trustlines works: resources/wp_content/how_trustlines_works.md
     - Use in the real world: resources/wp_content/use_in_the_real_world.md
   - Use Cases:
+    - Bill splitting:
+      - Bill splitting on Trustlines: use_cases/bill_splitting/bill_splitting_on_trustlines.md
     - Time Credits / Time Banking:
       - Time Credits on Trustlines: use_cases/time_credits/time_credits_on_trustlines.md
       - Time Credits - User Stories: use_cases/time_credits/time_credits_user_stories.md
-    - Bill splitting:
-      - Bill splitting on Trustlines: use_cases/bill_splitting/bill_splitting_on_trustlines.md
   - Guides:
     - Trustlines App User Guide: guides/tl_app_user_guide.md
     - How to claim TLN from the Merkle Drop: guides/how_to_claim_tln.md
@@ -138,7 +138,7 @@ nav:
     - FAQ: resources/FAQ.md
   - Community:
     - Glossary: resources/glossary.md
-    - Code of Conduct: docs/resources/code_of_conduct.md
+    - Code of Conduct: resources/code_of_conduct.md
     - Presentations: resources/presentations/presentation_slides.md
   - Legal:
     - Trustlines Trademark Guidelines: foundation/trademarks.md

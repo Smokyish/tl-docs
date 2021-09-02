@@ -179,3 +179,5 @@ Trustlines is designed so that anyone may issue credit without needing financial
 
 Using collateral makes it possible for credit from specific organizations to be "backed" by local government or private entities, depending on the situation. For example, a local municipality may want to bootstrap the local Trustlines community by guaranteeing the credit from a set of vetted, eco-friendly businesses. This would make it possible for a larger number of businesses and individuals to securely give credit lines to eco-friendly businesses, improving network liquidity and boosting trade. It is up to the users to decide whether to issue such collateral in full or in part, or according to some dynamic formula.\
 An example of a partially collateralized credit model would be [BerkShares](https://www.nytimes.com/2007/02/25/us/25land.html), a local community currency in Massachusetts that is backed by U.S. dollar reserves.
+
+--8<-- "includes/glossary.md"
